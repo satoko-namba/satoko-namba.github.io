@@ -8,7 +8,7 @@
 - 治療効果を高める薬剤組み合わせ予測のためのAI・機械学習手法の開発
 
 ## ターゲットリポジショニングのためのAI・機械学習手法の開発
-### ターゲットリポジショニングの提案（Namba _et al_., Bioinformatics, 38(Supplement_1) i68-i76, 2022）
+### ターゲットリポジショニングの提案（Namba _et al_., _Bioinformatics_, 38(Supplement_1) i68-i76, 2022）[https://doi.org/10.1093/bioinformatics/btac240]
 既存の治療標的分子/創薬標的分子に関して、元々の適用疾患とは異なる別の疾患への転用を予測する、**ターゲットリポジショニング**と言う新しい概念を提案しました。
 
 [業績リストはこちら（Researchmap）](https://researchmap.jp/namba_satoko)
