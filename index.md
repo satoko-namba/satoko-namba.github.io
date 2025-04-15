@@ -1,18 +1,3 @@
-<table>
-<tr>
-<td width="150">
-  <img src="./images/satoko.jpg" alt="Satoko Namba" width="140" style="border-radius: 8px;">
-</td>
-<td>
-  <strong>Satoko Namba</strong><br>
-  Bioinformatics researcher working on rare disease therapeutics, semi-supervised learning (SSL-VQ),
-  and multi-omics network modeling.<br>
-  Based in Japan. Currently affiliated with Kyutech.<br>
-  <a href="mailto:your.email@example.com">Email</a> | <a href="https://researchmap.jp/your-name">Researchmap</a>
-</td>
-</tr>
-</table>
-
 # 難波里子の研究紹介
 
 このページでは、私の研究活動を紹介しています。
