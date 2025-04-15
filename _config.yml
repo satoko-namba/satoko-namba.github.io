@@ -1,0 +1,24 @@
+title: "Satoko Namba | Bioinformatics & Rare Disease Research"
+description: "description: >
+  Satoko Namba is a bioinformatics researcher exploring therapeutic target prediction
+  for various diseases including rare and intractable diseases using machine learning approaches 
+  such as target repositioning, TRESOR, and proposing innovative models for drug synergy.
+  希少疾患・難治性疾患を含むさまざまな疾患に対して、治療標的分子・創薬標的分子を予測する機械学習・AIを開発する研究を行っています。
+"
+author: "Satoko Namba"
+# email: "your.email@example.com"  # 任意（非公開にしたいなら消してもOK）
+baseurl: ""  # これは空でOK（ユーザーサイトの場合）
+url: "https://satoko-namba.github.io"
+
+markdown: kramdown
+theme: minima  # デザインを簡単に変えられるテーマ。使ってなければ削除してもOK
+
+# Google SEO 用のキーワード
+keywords: "Satoko Namba, 難波里子, therapeutic targets, 治療標的分子, 創薬標的分子, drug discovery, 医薬品開発, 創薬, AI, AI創薬, rare disease, 希少疾患, intractable disease, 難治性疾患, bioinformatics, バイオインフォマティクス, machine learning, 機械学習"
+
+# ソーシャル共有時の設定（オプション）
+social:
+  name: Satoko Namba
+  links:
+    - https://researchmap.jp/your_username
+    - https://satoko-namba.github.io
