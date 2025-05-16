@@ -8,17 +8,33 @@
 
 ## お知らせ・更新履歴
 
-<div style="border: 1px solid #ccc; max-height: 200px; overflow-y: scroll; padding: 10px; background-color: #fdfdfd;">
+<h2>お知らせ・更新情報</h2>
 
-  <ul style="list-style: none; padding-left: 0; margin: 0; font-family: 'Noto Sans JP', sans-serif;">
-    <li><strong>2025年5月16日：</strong> ホームページを公開しました。</li>
-    <li><strong>2025年5月10日：</strong> 論文「**」が**に投稿されました。</li>
-    <li><strong>2025年5月3日：</strong> GitHub Pages構成の最終調整を行いました。</li>
-    <li><strong>2025年4月28日：</strong> AIシステムの初期バージョンをデプロイしました。</li>
-    <li><strong>2025年4月20日：</strong> **での採択通知を受領しました。</li>
-  </ul>
+<div style="max-height: 240px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; background-color: #fefefe;">
+
+<dl style="margin: 0; font-family: 'Noto Sans JP', sans-serif;">
+  <dt style="font-weight: bold; margin-top: 10px;">
+    <span style="background-color: #1EBADE; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">出版</span>
+    <time style="margin-left: 10px; color: #666;">2025.05.16</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;"><a href="#" style="text-decoration: none; color: #333;">**した。</a></dd>
+
+  <dt>
+    <span style="background-color: #666; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">発表</span>
+    <time style="margin-left: 10px; color: #666;">2025.05.10</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;"><a href="#">**した。</a></dd>
+
+  <dt>
+    <span style="background-color: #999; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">活動</span>
+    <time style="margin-left: 10px; color: #666;">2025.05.03</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;"><a href="#"**</a></dd>
+
+</dl>
 
 </div>
+
 
 
 [業績リストはこちら（Researchmap）](https://researchmap.jp/namba_satoko)
