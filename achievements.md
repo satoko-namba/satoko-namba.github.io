@@ -4,6 +4,8 @@ title: 研究業績
 permalink: /achievements.html
 ---
 
+<a href="/en/achievements.html">[English: Research Achievements]</a>
+
 ### 📚**学術論文**
 
 1.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyama Otani, and Yoshihiro Yamanishi.  
