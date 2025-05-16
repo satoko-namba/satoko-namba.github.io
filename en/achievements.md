@@ -136,7 +136,7 @@ Lyon in France, 2023年7月24日 (2023.7.23~2023.7.27).
 
 ---
 
-### 🏯**Oral Presentations at Domestic Conferences [Peer-reviewed]**
+### 🏯**Oral Presentations at Domestic Conferences**
 
 1. **Satoko Namba**, Chen Li, Noriko Otani, and Yoshihiro Yamanishi.  
 “Predicting therapeutic target molecules for rare diseases based on deep learning and genetically perturbed transcriptome.”  
@@ -199,75 +199,55 @@ Kanagawa, 8/29-31, 2019.
 『Toyota Physical and Chemical Research Institute Specially Promoted Research Program Summer Training Camp』,  
 Okinawa, 8/17-19, 2019.
 
-
----
-
-### 🏯**Oral Presentations at Domestic Conferences [Non-peer-reviewed]**
-
-1.	**○難波里子**, 李晨, 大谷則子, 山西芳裕.  
-「機械学習による治療標的分子の予測と希少疾患への応用」,  
-『第10回CBI学会 個別化医療研究会』, 岐阜, 2024年2月27日.  
-
-2.	**○難波里子**, 岩田通夫, 山西芳裕.  
-「ターゲットリポジショニング：遺伝子摂動応答トランスクリプトームを用いた治療標的予測」,  
-『生命情報科学若手の会の第14回研究会』, オンライン, 2022年9月10-11日.  
-
-3.	**○難波里子**, 岩田通夫, 山西芳裕.  
-「遺伝子発現データを用いたターゲットリポジショニングの提案」,  
-『生命情報科学若手の会の第13回研究会』, オンライン, 2021年10月22-24日.
-
-4.	**○難波里子**, 岩田通夫, 飯田緑, 山西芳裕.  
-「摂動応答トランスクリプトームを用いた創薬標的分子と治療薬の探索」,  
-『生命情報科学若手の会の第12回研究会』, オンライン, 2020年8月27-28日.
-
-5.	**○難波里子**, 久保田浩行.  
-「糖尿病ラットと健常ラットにおける血中インスリン濃度変化の比較」,  
-『第二回数理生物学夏の学校2019』, 神奈川, 2019年8月29-31日.
-
-7.	**○難波里子**, 久保田浩行.  
-「糖尿病ラットと健常ラットにおける血中インスリン濃度変化の比較」,  
-『豊田理化学研究所特定課題　夏合宿』, 沖縄, 2019年8月17-19日.
-
 ---
 
 ### 🏯**Poster Presentations at Domestic Conferences**
 
-1.	阪口双葉、田中未来、**○難波里子**、上條陽平、庄司竜麻、菊池紀広、山西芳裕.  
-「抗老化効果を持つ化合物の化学的特徴や作用機序の情報解析」,  
-『日本薬学会第145回』一般ポスター発表, 福岡, 2025年3月27日（2025.3.26~2025.3.29）.
+1. Futaba Sakaguchi, Miku Tanaka, **Satoko Namba**, et al.  
+“Computational analysis of chemical features and mechanisms of compounds with anti-aging effects.”  
+『The 145th Annual Meeting of the Pharmaceutical Society of Japan』,  
+Fukuoka, 2025.3.27 (2025.3.26~2025.3.29).
 
-2.	阪口双葉、田中未来、**○難波里子**、上條陽平、庄司竜麻、菊池紀広、山西芳裕.  
-「抗老化リプログラミングを誘導する低分子化合物の解析と予測」,  
-『第130回 日本解剖学会／第102回 日本生理学会／第98回 日本薬理学会合同大会』  
-一般ポスター発表, 千葉, 2025年3月18日（2025.3.17~2025.3.19）.
+2. Futaba Sakaguchi, Miku Tanaka, **Satoko Namba***, et al.  
+“Analysis and prediction of small compounds that induce anti-aging reprogramming.”  
+『The 130th Annual Meeting of the Japanese Association of Anatomists (JAA)・The 102nd Annual Meeting of the Physiological Society of Japan (PSJ)・The 98th Annual Meeting of the Japanese Pharmacological Society (JPS)』,  
+Chiba, 2025.3.18 (2025.3.17~2025.3.19).
 
-3.	吉本修人, 亀淵由乃, **○難波里子**, 山西芳裕, 古屋茂樹, 濱野桃子.  
-「統合失調症様モデルマウスに対する新規治療標的と新薬の予測」,  
-『第61回化学関連支部合同九州大会』, 福岡, 2024年6月29日.
+3. Shuto Yoshimoto, … **Satoko Namba**, et al.  
+“Prediction of Novel Therapeutic Targets and Drug Candidates for a Schizophrenia-like Mouse Model.”  
+『The 61st Joint Kyushu Conference of Chemical Societies』,  
+Fukuoka, 2024.6.29.
 
-4.	亀淵由乃, **○難波里子**, 関谷 拓海, 大谷 則子, 岩田 通夫, 山西 芳裕.  
-「機械学習による薬剤標的分子予測と薬剤組み合わせ効果の検討」,  
-『日本薬学会第144年会』, 神奈川, 2024年3月30 (2024.3.28~2024.3.31).
+4. Yoshino Kamenofuchi, … **Satoko Namba**, et al.  
+“Prediction of drug target molecules and drug combination effects by machine learning.”  
+『The 144th Annual Meeting of the Pharmaceutical Society of Japan』,  
+Kanagawa, 2024.3.30 (2024.3.28~2024.3.31).
 
-5.	亀淵由乃, **○難波里子**, 関谷 拓海, 大谷 則子, 岩田 通夫, 山西 芳裕.  
-「シナジー効果を高める薬物の組み合わせを予測する情報技術の開発」,  
-『第97回日本薬理学会年会』, 神奈川, 2023年12月15（2023.12.14~2023.12.16）.
+5. Yoshino Kamenofuchi, … **Satoko Namba**, et al.  
+“Development of a Computational Method for Predicting Drug Combinations that Enhance Synergistic Effects.”  
+『The 97th Annual Meeting of the Japanese Pharmacological Society (JPS)』,  
+Kobe, 2023.3.12.15 (2023.12.14~2023.12.16).
 
-6.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Otani, and Yoshihiro Yamanishi.  
+6. **Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Otani, and Yoshihiro Yamanishi.  
 “Therapeutic target prediction for rare diseases integrating GWAS and TWAS data”.  
-『第12回生命医薬情報学連合大会』ポスター発表, 千葉, 2023年9月7日 (2023.9.7~2023.9.9).
+『Informatics in Biology, Medicine and Pharmacology 2023』,  
+Chiba, 2023.9.7 (2023.9.7~2023.9.9).
 
-7.	**○Satoko Namba**, Michio Iwata and Yoshihiro Yamanishi.  
-「ターゲットリポジショニング：遺伝子摂動応答トランスクリプトームを用いた創薬標的予測」,  
-『第10回生命医薬情報学連合大会』, オンライン, 2021年9月27日 (2021.9.27〜2021.9.29).
+7. **Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
+“Target repositioning: predicting therapeutic targets by genetically perturbed transcriptomic signatures.”  
+『Informatics in Biology, Medicine and Pharmacology 2021』,  
+online, 9/27-29, 2021 (Domestic conference).
 
-8.	**○難波里子**, 岩田通夫, 飯田緑, 山西芳裕.  
-「摂動応答トランスクリプトームを用いた創薬標的分子と治療薬の探索」,  
-『第9回生命医薬情報学連合大会』, オンライン, 2020年9月1-3日.
+8. **Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
+“Predicting therapeutic targets and drugs by genetically perturbed transcriptome signatures.”  
+『Informatics in Biology, Medicine and Pharmacology 2020』,  
+online, 9/1-3, 2020.
 
-9.	**○Satoko Namba**, Katsuya Ogata, and Shozo Tobimatsu.  
-"Frequency dependent effect of iTBS-tACS. English Poster Presentation of Kyushu University School of Medicine"",  
-福岡, 2018年11月24日.
+9. **Satoko Namba**, Katsuya Ogata, and Shozo Tobimatsu.  
+“Frequency dependent effect of iTBS-tACS.”  
+『English Poster Presentation of Kyushu University School of Medicine』,  
+Fukuoka, 10/24, 2018.
+
 
 ---
 
