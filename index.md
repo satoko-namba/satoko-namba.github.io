@@ -40,6 +40,7 @@ layout: base
 
 </div>
 
+&nbsp;
 
 <p style="margin-top: 20px;">
   <a href="https://researchmap.jp/namba_satoko" target="_blank" rel="noopener noreferrer">
