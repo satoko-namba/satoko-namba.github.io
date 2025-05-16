@@ -12,8 +12,8 @@ permalink: /en/about.html
     <h2 style="margin-top: 0; font-weight: bold;">🧬 Basic Information</h2>
     <ul style="list-style: none; padding-left: 0; font-size: 1rem;">
       <li><strong>Name:</strong> Satoko Namba</li>
-      <li><strong>From:</strong> Ōda City, Shimane Prefecture, Japan</li>
-      <li><strong>Affiliation:</strong> Graduate School of Informatics, Nagoya University / JSPS Research Fellow (PD)</li>
+      <li><strong>From:</strong> Ohda City, Shimane Prefecture, Japan</li>
+      <li><strong>Affiliation:</strong> Department of Complex Systems Science, Graduate School of Informatics, Nagoya University / JSPS Research Fellow (PD)</li>
       <li><strong>Specialty:</strong> AI-based drug discovery and target repositioning</li>
       <li><strong>Hobbies:</strong> Research, piano, drawing, photography, and other artistic/creative activities</li>
     </ul>
