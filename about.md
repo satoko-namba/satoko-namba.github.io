@@ -3,6 +3,10 @@ layout: page
 title: 経歴
 ---
 
+<div style="margin-top: 20px;">
+  <a href="/en/about.html">[English Profile]</a>
+</div>
+
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <!-- 左側：基本情報 -->
