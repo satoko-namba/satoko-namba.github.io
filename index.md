@@ -1,5 +1,6 @@
 ---
 layout: base
+title: Research Homepage
 ---
 
 ## **主な研究テーマ**
