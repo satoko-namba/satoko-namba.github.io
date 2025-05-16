@@ -14,7 +14,8 @@ url: "https://satoko-namba.github.io"
 
 markdown: kramdown
 #theme: minima  # デザインを簡単に変えられるテーマ。使ってなければ削除してもOK
-plugins: []
+plugins:
+  - jekyll-feed
 
 # Google SEO 用のキーワード
 keywords: "Satoko Namba, 難波里子, therapeutic targets, 治療標的分子, 創薬標的分子, drug discovery, 医薬品開発, 創薬, AI, AI創薬, rare disease, 希少疾患, intractable disease, 難治性疾患, bioinformatics, バイオインフォマティクス, machine learning, 機械学習"
