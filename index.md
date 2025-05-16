@@ -4,7 +4,7 @@ title: Research Homepage
 ---
 
 <div style="margin-top: 20px;">
-  <a href="./en/research.html" target="_blank" rel="noopener noreferrer">
+  <a href="./en/index.html" target="_blank" rel="noopener noreferrer">
     [English version]
   </a>
 </div>
