@@ -5,7 +5,11 @@ lang: en
 permalink: /en/research.html
 ---
 
-<img src="../images/target_repositioning.png" alt="Explanation of target repositioning" width="500">
+<div style="margin-top: 20px;">
+  <a href="../research.html">
+    [日本語版はこちら / Japanese version]
+  </a>
+</div>
 
 # Research Overview
 
