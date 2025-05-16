@@ -245,7 +245,7 @@ Proceedings, アメリカ マディソン, 2022年7月12日 (2022.7.10~2022.7.14
 
 1.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
 「希少疾患の創薬標的分子を予測できるAIを開発 ～ゲノムと遺伝子発現を融合し、難治性疾患の治療法の開拓へ～」,  
-名古屋大学 研究成果発信サイト プレスリリース, 2024年4月21日.
+名古屋大学 研究成果発信サイト プレスリリース, 2024年4月21日.  
 https://www.nagoya-u.ac.jp/researchinfo/result/2025/04/ai-103.html
 
 2.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
