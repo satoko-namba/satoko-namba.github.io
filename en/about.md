@@ -26,8 +26,9 @@ permalink: /en/about.html
 </div>
 
 ## 🎓 Education
-- Mar. 2024 Ph.D. (Information Science), Kyushu Institute of Technology (Early Completion)  
-- Mar. 2022 M.S. (Information Science), Kyushu Institute of Technology  
+- Mar. 2024 Ph.D. (Computer Science), Kyushu Institute of Technology
+  (**early completion in 2 years**; standard duration: 3 years)  
+- Mar. 2022 M.S. (Computer Science), Kyushu Institute of Technology  
 - Mar. 2020 B.S. (Biomedical Sciences), Kyushu University  
 
 ## 🧪 Research & Work Experience
