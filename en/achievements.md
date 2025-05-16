@@ -86,9 +86,9 @@ Grant-in-Aid for JSPS Fellows, 22KJ2494 (2022.4~2025.3)
 
 ### 🗣️**Invited Talks**
 
-1.	**○難波里子**, 岩田通夫, 山西芳裕.  
-「ターゲットリポジショニング：遺伝子摂動応答トランスクリプトームを用いた創薬標的予測」,  
-『第5回CBI若手の会講演会』, オンライン, 2022年6月3日.
+1.	**Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
+“Target repositioning: predicting therapeutic targets using genetically perturbed transcriptome.”  
+『5th CBI Young Researchers Symposium』, Online, 2022.6.3.
 
 
 ---
@@ -98,17 +98,17 @@ Grant-in-Aid for JSPS Fellows, 22KJ2494 (2022.4~2025.3)
 1.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyama Otani, and Yoshihiro Yamanishi.  
 “TRESOR: a disease signature integrating GWAS and TWAS  for therapeutic target discovery in rare diseases.”  
 『The 33rd International Conference on Intelligent Systems for Molecular Biology (ISMB2025)』,  
-Abstract Talk, 英国 リバプール, 2025.7.20–24.  
+Abstract Talk, Liverpool in UK, 2025.7.20–24.  
 
 2.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
 “Target repositioning to predict therapeutic target proteins using genetically perturbed transcriptome data”.  
 『The 31st International Conference on Intelligent Systems for Molecular Biology (ISMB2023)』,  
-ショートトーク オンライン, 2023年7月19日.
+Online short talk, 2023年7月19日.
 
 2.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
 “From drug repositioning to target repositioning: prediction of therapeutic targets using genetically perturbed transcriptomic signatures”.  
 『The 30th International Conference on Intelligent Systems for Molecular Biology (ISMB2022)』,  
-Proceedings, アメリカ マディソン, 2022年7月12日 (2022.7.10~2022.7.14).
+**Proceedings**, Madison in US, 2022年7月12日 (2022.7.10~2022.7.14).
 
 ---
 
@@ -117,22 +117,22 @@ Proceedings, アメリカ マディソン, 2022年7月12日 (2022.7.10~2022.7.14
 1.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
 “A trans-disease approach for predicting therapeutic target proteins using large-scale omics data”.  
 『1st Asia & Pacific Bioinformatics Joint Conference (APBJC2024)』,  
-沖縄 那覇, 2024年10月24日 (2024.10.22~2024.10.25).
+Okinawa in Japan, 2024年10月24日 (2024.10.22~2024.10.25).
 
 2.	Midori Iida, ..., **○Satoko Namba**, et al.  
 “A Computational Method for Predicting Synergistic Drug Combinations Using Network Propagation and Trans-Omics Analysis”.  
 『1st Asia & Pacific Bioinformatics Joint Conference (APBJC2024)』,  
-沖縄 那覇, 2024年10月23日 (2024.10.22~2024.10.25).  
+Okinawa in Japan, 2024年10月23日 (2024.10.22~2024.10.25).  
 
 3.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
 “A trans-disease approach for omics-based prediction of therapeutic target proteins”.  
 『The 32nd International Conference on Intelligent Systems for Molecular Biology (ISMB2024)』,  
-カナダ モントリオール, 2024年7月15日 (2024.7.12~2024.7.16).  
+Montréal in Canada, 2024年7月15日 (2024.7.12~2024.7.16).  
 
 4.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
 “Target repositioning to predict therapeutic target proteins using genetically perturbed transcriptome data”.  
 『The 31st International Conference on Intelligent Systems for Molecular Biology (ISMB2023)』,  
-フランス リヨン, 2023年7月24日 (2023.7.23~2023.7.27).
+Lyon in France, 2023年7月24日 (2023.7.23~2023.7.27).
 
 ---
 
