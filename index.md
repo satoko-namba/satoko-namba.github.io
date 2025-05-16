@@ -51,4 +51,8 @@ layout: base
 
 ---
 
-[English version](./en/index.html)
+<div style="margin-top: 20px;">
+  <a href="./en/index.html" target="_blank" rel="noopener noreferrer">
+    [English version]
+  </a>
+</div>
