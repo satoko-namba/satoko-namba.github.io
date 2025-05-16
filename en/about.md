@@ -71,7 +71,7 @@ permalink: /en/about.html
 
 ## 🔗 Links
 - [Researchmap (JP)](https://researchmap.jp/namba_satoko)  
-- [Google Scholar](https://scholar.google.com)  
+- [Google Scholar](https://scholar.google.com/citations?hl=ja&user=Oo9a2h8AAAAJ)  
 - [ORCID](https://orcid.org/0000-0003-1873-8639)
 - [ResearchGate](https://www.researchgate.net/profile/Satoko-Namba-2)
 
