@@ -58,7 +58,7 @@ Proceedings, アメリカ マディソン, 2022年7月12日 (2022.7.10~2022.7.14
 
 ### **［ポスターパルーザ・査読有り］**
 
-1.	○Satoko Namba, Michio Iwata, and Yoshihiro Yamanishi.  
+1.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
 “Target repositioning to predict therapeutic target proteins using genetically perturbed transcriptome data”.  
 『The 31st International Conference on Intelligent Systems for Molecular Biology (ISMB2023)』,  
 オンライン, 2023年7月19日.
