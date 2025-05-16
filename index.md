@@ -3,6 +3,12 @@ layout: base
 title: Research Homepage
 ---
 
+<div style="margin-top: 20px;">
+  <a href="./en/research.html" target="_blank" rel="noopener noreferrer">
+    [English version]
+  </a>
+</div>
+
 ## **主な研究テーマ**
 - ターゲットリポジショニング（target repositioning）のためのAI・機械学習手法の開発
 - 希少疾患や難治性疾患に対する治療標的分子・創薬標的分子予測のためのAI・機械学習手法の開発
