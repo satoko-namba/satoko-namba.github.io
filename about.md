@@ -3,9 +3,27 @@ layout: page
 title: 経歴
 ---
 
-## 🧬 **基本情報**   
-- 氏名：難波 里子（Satoko Namba）  
-- 所属：名古屋大学 大学院情報学研究科　複雑系科学専攻 / JSPS特別研究員PD  
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+  <!-- 左側：基本情報 -->
+  <div style="flex: 1; min-width: 250px; font-weight: bold;">
+    <h2>🧬 基本情報</h2>
+    <ul style="list-style: none; padding-left: 0; font-size: 1rem;">
+      <li><strong>氏名：</strong>難波 里子（Satoko Namba）</li>
+      <li><strong>出身：</strong>島根県大田市</li>
+      <li><strong>所属：</strong>名古屋大学 大学院情報学研究科　複雑系科学専攻 / JSPS特別研究員PD</li>
+      <li><strong>専門：</strong>AI創薬・ターゲットリポジショニング</li>
+    </ul>
+  </div>
+
+  <!-- 右側：顔写真 -->
+  <div style="flex-shrink: 0;">
+    <img src="/assets/profile.jpg" alt="プロフィール写真" style="width: 160px; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
+  </div>
+
+</div>
+
+
 
 ## 🎓 **学歴**  
 - 2024年3月 博士（情報工学）九州工業大学　大学院情報工学府　情報創成工学専攻　早期修了  
