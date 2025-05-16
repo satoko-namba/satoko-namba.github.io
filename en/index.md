@@ -49,7 +49,7 @@ lang: en
   <p>Publication Lists:</p>
   <ul style="margin: 0; padding-left: 1.2em; line-height: 1.6;">
     <li>
-      <a href="https://satoko-namba.github.io/en" target="_blank" rel="noopener noreferrer">
+      <a href="https://satoko-namba.github.io/en/achievements.html" target="_blank" rel="noopener noreferrer">
         My Research Homepage (English)
       </a>
     </li>
