@@ -5,7 +5,7 @@ lang: en
 permalink: /en/contact.html
 ---
 
-<h2 style="font-weight: bold;>📧 Contact</h2>
+<h2 style="font-weight: bold;">📧 Contact</h2>
 <p>
 For research-related inquiries, please contact me at the email address below.
 </p>
