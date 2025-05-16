@@ -15,7 +15,7 @@ title: Research Homepage
 - 治療効果を高める薬剤組み合わせ予測のためのAI・機械学習手法の開発
 
 
-## 💠**お知らせ・更新情報**
+## 🏆**お知らせ・更新情報**
 
 <div style="max-height: 240px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; background-color: #fefefe;">
 
