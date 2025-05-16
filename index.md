@@ -49,6 +49,41 @@ title: Research Homepage
 </div>
 
 
+<h2 style="font-weight: bold;">📅 今後の予定</h2>
+
+<div style="max-height: 240px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; background-color: #fefefe;">
+
+<dl style="margin: 0; font-family: 'Noto Sans JP', sans-serif;">
+
+  <dt style="font-weight: bold; margin-top: 10px;">
+    <span style="background-color: #ECB758; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">発表予定</span>
+    <time style="margin-left: 10px; color: #666;">2025.07.20</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;">
+    ISMB 2025 (Liverpool, UK) にて口頭発表予定
+  </dd>
+
+  <dt style="font-weight: bold; margin-top: 10px;">
+    <span style="background-color: #9DC3E6; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">投稿予定</span>
+    <time style="margin-left: 10px; color: #666;">2025.06</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;">
+    SYNERGIE 論文を Science Advances に投稿予定
+  </dd>
+
+  <dt>
+    <span style="background-color: #666; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">留学</span>
+    <time style="margin-left: 10px; color: #666;">2025.08〜2025.10</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;">
+    欧州短期留学（ERCプロジェクト）を予定
+  </dd>
+
+</dl>
+</div>
+
+
+
 <hr style="margin: 30px 0; border: none; border-top: 1px solid #ccc;" />
 <!-- 🔽 ニュースボックスの外に出すには、divの外で新しいセクションを開始 -->
 
