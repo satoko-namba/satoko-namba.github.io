@@ -54,7 +54,7 @@ title: 経歴
 - オミクス解析（bulk / single cell）
 - 機械学習 / AI
 
-## 🎴 ファビコン「難」に込めた想い
+
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <!-- 左側：文章 -->
@@ -68,7 +68,7 @@ title: 経歴
 
   <!-- 右側：ファビコン画像 -->
   <div style="flex-shrink: 0;">
-    <img src="/favicon.ico" alt="favicon" style="width: 64px; height: 64px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.2); margin-top: 10px;">
+    <img src="/favicon.ico" alt="favicon" style="width: 64px; height: 160px; border-radius: auto; box-shadow: 0 1px 3px rgba(0,0,0,0.2); margin-top: 10px;">
   </div>
 
 </div>
