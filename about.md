@@ -68,7 +68,7 @@ title: 経歴
 
   <!-- 右側：ファビコン画像 -->
   <div style="flex-shrink: 0;">
-    <img src="/favicon.ico" alt="favicon" style="width: 160px; height: auto; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.2); margin-top: 10px;">
+    <img src="/favicon.ico" alt="favicon" style="width: 160px; height: 160px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.2); margin-top: 10px;">
   </div>
 
 </div>
