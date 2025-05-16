@@ -50,17 +50,17 @@ permalink: /en/about.html
 - Omics data analysis (bulk & single-cell)  
 - Machine Learning / Artificial Intelligence  
 
-## 🔗 Links
-- [Researchmap (JP)](https://researchmap.jp/namba_satoko)  
-- [Google Scholar](https://scholar.google.com)  
-- [ORCID](https://orcid.org/0000-0003-1873-8639)
-
 ## 🎴 About the Favicon
 
 The favicon of this website uses the single kanji character **"難" (Nan)**, which carries multiple meanings.  
 It represents both my family name **"Namba"** and my research focus on **intractable diseases** (called "難治性疾患" in Japanese).  
 The character conveys a sense of **challenge, complexity, and the pursuit of breakthroughs**—concepts that reflect my commitment to advancing AI-based therapeutic discovery.  
 I chose this character to symbolize both my identity and mission as a researcher.
+
+## 🔗 Links
+- [Researchmap (JP)](https://researchmap.jp/namba_satoko)  
+- [Google Scholar](https://scholar.google.com)  
+- [ORCID](https://orcid.org/0000-0003-1873-8639)
 
 
 <div style="margin-top: 20px;">
