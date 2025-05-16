@@ -42,7 +42,7 @@ lang: en
 
 </dl>
 </div>
-<br>
+<br><br>
 
 
 <h2 style="font-weight: bold;">📅 Upcoming Events</h2>
