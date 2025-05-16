@@ -4,10 +4,19 @@ title: Research Homepage (English)
 lang: en
 ---
 
+<div style="margin-top: 20px;">
+  <a href="../index.html">
+    [日本語版はこちら / Japanese version]
+  </a>
+</div>
+
+
 ## 💎**Main Research Themes**
 - Development of AI and machine learning methods for target repositioning.
 - Development of predictive models for therapeutic targets and druggable genes for rare and intractable diseases.
 - Development of synergy prediction methods for drug combinations to enhance therapeutic effects.
+<br>
+
 
 ## 🏆**News & Updates**
 
