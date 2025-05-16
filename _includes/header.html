@@ -11,9 +11,11 @@
     {%- endcomment %}
     <a class="site-title" href="{{ '/' | relative_url }}" style="font-weight: bold;">
       {% if page.lang == "en" %}
-        Satoko Namba Research Homepage |  AI-based drug discovery
+        <span style="margin-right: 0.5em;">Satoko Namba Research Homepage</span>
+        <span style="margin-left: 0.5em;">〜AI-based drug discovery〜</span>
       {% else %}
-        難波里子 研究ホームページ |  AI創薬 & 難治性疾患の研究
+        <span style="margin-right: 0.5em;">難波里子 研究ホームページ</span>
+        <span style="margin-left: 0.5em;">〜AI創薬 & 難治性疾患の研究〜</span>
       {% endif %}
     </a>
 
@@ -74,7 +76,7 @@
 
 <!-- ナビゲーションバー -->
 {% if page.lang == "en" %}
-  <nav style="background-color: #f5f5f5; padding: 10px; text-align: center; font-size: 18px; font-weight: bold; border-bottom: 2px solid #ccc;">
+  <nav style="background-color: #f5f5f5; padding: 10px; text-align: center; font-size: 18px; font-weight: bold; border-bottom: 5px solid #ccc;">
     <a href="/en/" style="margin: 0 15px; text-decoration: none;">💎 Home</a>
     <a href="/en/about.html" style="margin: 0 15px; text-decoration: none;">💎 About</a>
     <a href="/en/achievements.html" style="margin: 0 15px; text-decoration: none;">💎 Achievements</a>
@@ -82,7 +84,7 @@
     <a href="/en/contact.html" style="margin: 0 15px; text-decoration: none;">💎 Contact</a>
   </nav>
 {% else %}
-  <nav style="background-color: #f5f5f5; padding: 10px; text-align: center; font-size: 18px; font-weight: bold; border-bottom: 2px solid #ccc;">
+  <nav style="background-color: #f5f5f5; padding: 10px; text-align: center; font-size: 18px; font-weight: bold; border-bottom: 5px solid #ccc;">
     <a href="/" style="margin: 0 15px; text-decoration: none;">💎 Home</a>
     <a href="/about.html" style="margin: 0 15px; text-decoration: none;">💎 経歴</a>
     <a href="/achievements.html" style="margin: 0 15px; text-decoration: none;">💎 研究業績</a>
