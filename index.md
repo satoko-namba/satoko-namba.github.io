@@ -9,7 +9,7 @@ title: Research Homepage
   </a>
 </div>
 
-## **主な研究テーマ**
+## 💎**主な研究テーマ**
 - ターゲットリポジショニング（target repositioning）のためのAI・機械学習手法の開発
 - 希少疾患や難治性疾患に対する治療標的分子・創薬標的分子予測のためのAI・機械学習手法の開発
 - 治療効果を高める薬剤組み合わせ予測のためのAI・機械学習手法の開発
@@ -57,7 +57,7 @@ title: Research Homepage
 
 </dl>
 </div>
-
+<br>
 
 
 <hr style="margin: 30px 0; border: none; border-top: 1px solid #ccc;" />
