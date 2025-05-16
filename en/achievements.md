@@ -30,60 +30,56 @@ Nat Commun., 16, 3355. https://doi.org/10.1038/s41467-025-58464-4 (2025.4.18)
 
 ### 📕**Review Articles / Professional Magazines**
 
-1.	**○難波里子**.  
-「Conference & Workshop AIが解き明かす生命科学の未来：1st Asia & Paciﬁc Bioinformatics Joint Conference」、 
-実験医学2025年4月号Vol.43 No.6  
-『特集1：多細胞の合成生物学　発生・分化機構を知って、創って、利用する／特集2：まずはCondaではじめよう　仮想環境で試せるバイオインフォマティクス』  
-（戸田聡，新海典夫／編 羊土社、2025年3月19日、957-960）. ISBN 978-4-7581-2590-1
+1.	**Satoko Namba**. 
+“Conference & Workshop: The Future of Life Science Unveiled by AI—1st Asia & Paciﬁc Bioinformatics Joint Conference”,  
+Experimental Medicine (Special Issue: “Synthetic Biology of Multicellular Systems / Getting Started with Bioinformatics via Conda”),   Vol.43, No.6, pp. 957–960. Yodosha, March 2025. ISBN 978-4-7581-2590-1. (in Japanese)
 
-3.	**○難波里子**, 岩田通夫, 山西芳裕.  
-   「遺伝子摂動応答オミクスデータを用いた治療標的予測―疾患横断解析によるターゲットリポジショニング」、
-  	実験医学増刊Vol.41 No.7『ポストGWAS時代の遺伝統計学 オミクス解析と機械学習でヒト疾患を俯瞰する』
-  	（岡田随象編 羊土社、2023年4月20日、181-187）. ISBN 978-4-7581-0410-4
+2. **Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
+“Therapeutic Target Prediction Using Genetic Perturbation-Response Omics Data: Cross-Disease Target Repositioning.”  
+Experimental Medicine (Supplement: “Statistical Genetics in the Post-GWAS Era: A Systems View of Human Disease via Omics and Machine Learning”),  
+Vol. 41, No. 7, pp. 181–187, Yodosha, April 2023. ISBN 978-4-7581-0410-4. (in Japanese)
 
----
-
-### 🏆**Awards**
-
-1.	**○難波里子**、李晨、大谷則子、山西芳裕.  
-「遺伝子摂動応答トランスクリプトームを用いた半教師あり深層学習による治療標的分子の予測と希少疾患への応用,  
-『第130回 日本解剖学会／第102回 日本生理学会／第98回 日本薬理学会合同大会』,   
-Young Investigator Award, 千葉, 2025年3月18日（2025.3.17~2025.3.19）, （受賞率24/72=33.3%）.
-
-2.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Otani, and Yoshihiro Yamanishi.  
-“Therapeutic target prediction for rare diseases integrating GWAS and TWAS data”.  
-『第12回生命医薬情報学連合大会』優秀ポスター賞　受賞, 千葉, 2023年9月7日 （受賞率8/144=5.5%）.  
-
-3.	**○難波里子**, 小川友希, 横山源太郎, 濱谷和, 下河舞子, 武田淳志.  
-“スペースゲノム 解析とその活用についての諸考察”. 『生命情報科学若手の会の第14回研究会』,  
-Best NGS awards 受賞, オンライン, 2022年9月10-11日.
-
-4.	**○Satoko Namba**, Michio Iwata and Yoshihiro Yamanishi.  
-“From drug repositioning to target repositioning: omics-based prediction of therapeutic targets for a variety of diseases”.  
-『CBI学会2021年大会』, 口頭発表賞 受賞 (Excellent Presentation Awards), オンライン, 
-2021年10月27日 （受賞率4/34=11.7%）.  
-
-5.	**○Satoko Namba**, Michio Iwata and Yoshihiro Yamanishi.  
-「ターゲットリポジショニング：遺伝子摂動応答トランスクリプトームを用いた創薬標的予測」,  
-『第10回生命医薬情報学連合大会』, 優秀ポスター賞 受賞, オンライン,  
-2021年9月27日 (2021.9.27〜2021.9.29) (受賞率9/86=10.4%).
 
 ---
 
-### 💰**Grants and Fellowships**
+### 🏆**Honors / Awards**
 
-1.	**難波里子**, 日本学術振興会 特別研究員 (PD),  
-「GWASとTWASの融合による希少疾患の治療標的分子を予測する情報技術の開発」,  
-特別研究奨励金, 科研費番号 25KJ0159, 2025.4~2028.3  
- (採択率 23.9%, ※特別研究員-DCに申請し、採用時までに博士の学位を取得して特別研究員-PDに資格変更した者を含む).
+1. **Satoko Namba**.  
+『The 130th Annual Meeting of the Japanese Association of Anatomists (JAA)・The 102nd Annual Meeting of the Physiological Society of Japan (PSJ)・The 98th Annual Meeting of the Japanese Pharmacological Society (JPS)』,  
+Young Investigator Award, 2025.3.18.
+
+2.	**Satoko Namba**.  
+『Informatics in Biology, Medicine and Pharmacology 2023』,  
+Outstanding Poster Award, 2023.9.7.
+
+3.	**Satoko Namba**, et al.  
+『14th Annual Meeting of the Young Researchers Association for Bioinformatics and Life Science』,  
+Best NGS awards, 2022.9.11.
+
+4.	**Satoko Namba**.  
+『The Chem-Bio Informatics Society CBI Annual Meeting 2021』,  
+Excellent Presentation Awards, 2021.10.27.
+
+5.	**Satoko Namba**.  
+『Informatics in Biology, Medicine and Pharmacology 2021』,  
+Outstanding Poster Award, 2021.9.27.
+
+
+---
+
+### 💰**Grants / Fellowships**
+
+1.	**Satoko Namba**.  
+Grant-in-Aid for JSPS Fellows, 25KJ0159 (2025.4~2028.3)  
+(Acceptance rate: 23.9%).
 
 2.	**○Satoko Namba**,  
-ISMB2022 Travel Fellowship, $1,000 （採択率 47/155）  
+ISMB2022 Travel Fellowship, $1,000  
+(Acceptance rate: 47/155)
 
-3.	**難波里子**,  
-日本学術振興会 特別研究員 (DC1),  
-「治療効果を高める薬剤組み合わせを予測する情報技術の開発」,  
-特別研究奨励金, 科研費番号 22KJ2494, 2022.4~2025.3, （採択率 18.5%）.
+3.	**Satoko Namba**,  
+Grant-in-Aid for JSPS Fellows, 22KJ2494 (2022.4~2025.3)  
+(Acceptance rate: 18.5%).
 
 
 ---
