@@ -46,7 +46,9 @@ title: 経歴
 - 日本薬理学会
 
 ## 💻 **スキル・使用ツール**  
-- Python / R / Git   
+- Python / R / Git
+- オミクス解析（bulk / single cell）
+- 機械学習 / AI
 
 ## 🔗 **関連リンク**  
 - [Researchmap](https://researchmap.jp/namba_satoko)  
