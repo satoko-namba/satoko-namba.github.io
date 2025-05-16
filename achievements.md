@@ -6,7 +6,7 @@ permalink: /achievements.html
 
 ## 学術論文
 
-1.	○Satoko Namba, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyama Otani, and Yoshihiro Yamanishi. 
+1.	○Satoko Namba, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyama Otani, and Yoshihiro Yamanishi.  
 Therapeutic target prediction for orphan diseases integrating genome-wide and transcriptome-wide association studies. Nat Commun., 16, 3355 (2025). https://doi.org/10.1038/s41467-025-58464-4
 2.	○Satoko Namba, Chen Li, Noriko Otani, and Yoshihiro Yamanishi, SSL-VQ: Vector-quantized variational autoencoders for semi-supervised prediction of therapeutic targets across diverse diseases, Bioinformatics, 41(2), btaf039, (2025), https://doi.org/10.1093/bioinformatics/btaf039
 3.	Midori Iida, Yurika Kuniki, Kenta Yagi, Mitsuhiro Goda, ○Satoko Namba, Jun-ichi Takeshita, Ryusuke Sawada, Michio Iwata, Yoshito Zamami, Keisuke Ishizawa, and Yoshihiro Yamanishi. (2024/7/29) A network-based trans-omics approach for predicting synergistic drug combinations. Communications medicine, 4, 154. https://doi.org/10.1038/s43856-024-00571-2. DOI[10.1038/s43856-024-00571-2]
