@@ -47,7 +47,7 @@ title: Research Homepage
 <!-- 🔽 ニュースボックスの外に出すには、divの外で新しいセクションを開始 -->
 
 <div style="margin-top: 20px;">
-  <p>業績リストはこちら：</p>
+  <p>📚業績リストはこちら：</p>
   <ul style="margin: 0; padding-left: 1.2em; line-height: 1.6;">
     <li>
       <a href="https://satoko-namba.github.io/achievements.html" target="_blank" rel="noopener noreferrer">
