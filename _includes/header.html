@@ -40,8 +40,13 @@
                 display: flex; align-items: center; height: 100%;
                 margin-left: auto;">
       <div>
-        希少疾患・難治性疾患に対する<br><br>
-        治療法を提案する革新的AIの開発
+        {% if page.lang == "en" %}
+          Innovative AI for Proposing Therapies<br><br>
+          for Rare and Intractable Diseases
+        {% else %}
+          希少疾患・難治性疾患に対する<br><br>
+          治療法を提案する革新的AIの開発
+        {% endif %}
       </div>
     </div>
 
