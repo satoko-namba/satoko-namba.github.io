@@ -15,9 +15,10 @@ layout: base
 <dl style="margin: 0; font-family: 'Noto Sans JP', sans-serif;">
   <dt style="font-weight: bold; margin-top: 10px;">
     <span style="background-color: #1EBADE; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">出版</span>
-    <time style="margin-left: 10px; color: #666;">2025.05.16</time>
+    <time style="margin-left: 10px; color: #666;">2025.04.18</time>
   </dt>
-  <dd style="margin: 0 0 10px 0;"><a href="#" style="text-decoration: none; color: #333;">**した。</a></dd>
+  <dd style="margin: 0 0 10px 0;"><a href="#" style="text-decoration: none; color: #333;">
+    GWASとTWASの融合により希少疾患に対し治療標的分子を予測する論文が、Nature Communicationsに掲載されました。</a></dd>
 
   <dt>
     <span style="background-color: #666; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">発表</span>
