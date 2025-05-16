@@ -41,6 +41,7 @@ layout: base
 </div>
 
 
+<hr style="margin: 30px 0; border: none; border-top: 1px solid #ccc;" />
 <!-- 🔽 ニュースボックスの外に出すには、divの外で新しいセクションを開始 -->
 
 <div style="margin-top: 20px;">
@@ -49,7 +50,7 @@ layout: base
   </a>
 </div>
 
----
+<hr style="margin: 30px 0; border: none; border-top: 1px solid #ccc;" />
 
 <div style="margin-top: 20px;">
   <a href="./en/index.html" target="_blank" rel="noopener noreferrer">
