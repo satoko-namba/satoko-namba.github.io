@@ -47,10 +47,21 @@ title: Research Homepage
 <!-- 🔽 ニュースボックスの外に出すには、divの外で新しいセクションを開始 -->
 
 <div style="margin-top: 20px;">
-  <a href="https://researchmap.jp/namba_satoko" target="_blank" rel="noopener noreferrer">
-    業績リストはこちら（Researchmap）
-  </a>
+  <p>業績リストはこちら：</p>
+  <ul style="margin: 0; padding-left: 1.2em; line-height: 1.6;">
+    <li>
+      <a href="https://satoko-namba.github.io/achievements.html" target="_blank" rel="noopener noreferrer">
+        My Research Homepage
+      </a>
+    </li>
+    <li>
+      <a href="https://researchmap.jp/namba_satoko" target="_blank" rel="noopener noreferrer">
+        Researchmap
+      </a>
+    </li>
+  </ul>
 </div>
+
 
 <hr style="margin: 30px 0; border: none; border-top: 1px solid #ccc;" />
 
