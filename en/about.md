@@ -55,6 +55,13 @@ permalink: /en/about.html
 - [Google Scholar](https://scholar.google.com)  
 - [ORCID](https://orcid.org/0000-0003-1873-8639)
 
+## 🎴 About the Favicon
+
+The favicon of this website uses the single kanji character **"難" (Nan)**, which carries multiple meanings.  
+It represents both my family name **"Namba"** and my research focus on **intractable diseases** (called "難治性疾患" in Japanese).  
+The character conveys a sense of **challenge, complexity, and the pursuit of breakthroughs**—concepts that reflect my commitment to advancing AI-based therapeutic discovery.  
+I chose this character to symbolize both my identity and mission as a researcher.
+
 
 <div style="margin-top: 20px;">
   <a href="../about.html">
