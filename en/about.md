@@ -50,13 +50,6 @@ permalink: /en/about.html
 - Omics data analysis (bulk & single-cell)  
 - Machine Learning / Artificial Intelligence  
 
-## 🎴 About the Favicon
-
-The favicon of this website uses the single kanji character **"難" (Nan)**, which carries multiple meanings.  
-It represents both my family name **"Namba"** and my research focus on **intractable diseases** (called "難治性疾患" in Japanese).  
-The character conveys a sense of **challenge, complexity, and the pursuit of breakthroughs**—concepts that reflect my commitment to advancing AI-based therapeutic discovery.  
-I chose this character to symbolize both my identity and mission as a researcher.
-
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
