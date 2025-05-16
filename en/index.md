@@ -15,14 +15,6 @@ lang: en
 <dl style="margin: 0; font-family: 'Noto Sans JP', sans-serif;">
   
   <dt style="font-weight: bold; margin-top: 10px;">
-    <span style="background-color: #ECB758; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">Upcoming Talk</span>
-    <time style="margin-left: 10px; color: #666;">May 14, 2025</time>
-  </dt>
-  <dd style="margin: 0 0 10px 0;"><a href="#" style="text-decoration: none; color: #333;">
-    Selected for an oral presentation at ISMB/ECCB 2025 (TransMed track).
-  </a></dd>
-  
-  <dt style="font-weight: bold; margin-top: 10px;">
     <span style="background-color: #1EBADE; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">Publication</span>
     <time style="margin-left: 10px; color: #666;">April 18, 2025</time>
   </dt>
@@ -41,6 +33,26 @@ lang: en
 
 </dl>
 </div>
+<br>
+
+
+<h2 style="font-weight: bold;">📅 Upcoming Events</h2>
+
+<div style="max-height: 240px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; background-color: #fefefe;">
+
+<dl style="margin: 0; font-family: 'Noto Sans JP', sans-serif;">
+
+  <dt style="font-weight: bold; margin-top: 10px;">
+    <span style="background-color: #ECB758; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">Upcoming Talk</span>
+    <time style="margin-left: 10px; color: #666;">May 14, 2025</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;"><a href="#" style="text-decoration: none; color: #333;">
+    Selected for an oral presentation at ISMB/ECCB 2025 (TransMed track).
+  </a></dd>
+
+</dl>
+</div>
+
 
 
 <hr style="margin: 30px 0;" />
