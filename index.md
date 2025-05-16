@@ -38,8 +38,8 @@ title: Research Homepage
 
 
 </dl>
-
 </div>
+<br>
 
 
 <h2 style="font-weight: bold;">📅 今後の予定</h2>
@@ -57,7 +57,6 @@ title: Research Homepage
 
 </dl>
 </div>
-<br>
 
 
 <hr style="margin: 30px 0; border: none; border-top: 1px solid #ccc;" />
