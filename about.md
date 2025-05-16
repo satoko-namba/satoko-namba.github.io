@@ -36,6 +36,15 @@ title: 経歴
 - 2024年4月〜2025年3月 JSPS PD（DC1から資格変更）@名古屋大学  
 - 2022年4月〜2024年3月 JSPS DC1（博士課程）@九州工業大学  
 
+## 🌍**所属学会**
+#### 国際学会
+- International Society for Computational Biology (ISCB)
+
+#### 国内学会
+- 日本バイオインフォマティクス学会（JSBI）
+- 日本薬学会
+- 日本薬理学会
+
 ## 💻 **スキル・使用ツール**  
 - Python / R / Git   
 
