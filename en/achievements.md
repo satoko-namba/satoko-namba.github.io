@@ -5,12 +5,6 @@ lang: en
 permalink: /en/achievements.html
 ---
 
----
-layout: page
-title: 研究業績
-permalink: /achievements.html
----
-
 ### 📚**Peer-Reviewed Journal Articles**
 
 1.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyama Otani, and Yoshihiro Yamanishi.  
