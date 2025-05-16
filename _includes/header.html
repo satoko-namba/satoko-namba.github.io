@@ -57,11 +57,21 @@
 
 
 <!-- ナビゲーションバー -->
-<nav style="background-color: #f5f5f5; padding: 10px; text-align: center; font-size: 18px; font-weight: bold;">
-  <a href="/" style="margin: 0 15px; text-decoration: none;">💎 Home</a>
-  <a href="/about.html" style="margin: 0 15px; text-decoration: none;">💎 経歴</a>
-  <a href="/achievements.html" style="margin: 0 15px; text-decoration: none;">💎 研究業績</a>
-  <a href="/research.html" style="margin: 0 15px; text-decoration: none;">💎 研究紹介</a>
-  <a href="/contact.html" style="margin: 0 15px; text-decoration: none;">💎 連絡先</a>
-</nav>
+{% if page.lang == "en" %}
+  <nav style="...">
+    <a href="/en/" style="margin: 0 15px; text-decoration: none;">💎 Home</a>
+    <a href="/en/about.html" style="margin: 0 15px; text-decoration: none;">💎 About</a>
+    <a href="/en/achievements.html" style="margin: 0 15px; text-decoration: none;">💎 Achievements</a>
+    <a href="/en/research.html" style="margin: 0 15px; text-decoration: none;">💎 Research</a>
+    <a href="/en/contact.html" style="margin: 0 15px; text-decoration: none;">💎 Contact</a>
+  </nav>
+{% else %}
+  <nav style="background-color: #f5f5f5; padding: 10px; text-align: center; font-size: 18px; font-weight: bold;">
+    <a href="/" style="margin: 0 15px; text-decoration: none;">💎 Home</a>
+    <a href="/about.html" style="margin: 0 15px; text-decoration: none;">💎 経歴</a>
+    <a href="/achievements.html" style="margin: 0 15px; text-decoration: none;">💎 研究業績</a>
+    <a href="/research.html" style="margin: 0 15px; text-decoration: none;">💎 研究紹介</a>
+    <a href="/contact.html" style="margin: 0 15px; text-decoration: none;">💎 連絡先</a>
+  </nav>
+{% endif %}
 
