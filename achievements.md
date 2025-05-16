@@ -4,7 +4,7 @@ title: 研究業績
 permalink: /achievements.html
 ---
 
-### **学術論文**
+### 📚**学術論文**
 
 1.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyama Otani, and Yoshihiro Yamanishi.  
 Therapeutic target prediction for orphan diseases integrating genome-wide and transcriptome-wide association studies.  
@@ -27,7 +27,7 @@ Nat Commun., 16, 3355. https://doi.org/10.1038/s41467-025-58464-4 (2025.4.18)
 
 ---
 
-### **学術雑誌又は商業誌**
+### 📕**学術雑誌又は商業誌**
 
 1.	**○難波里子**.  
 「Conference & Workshop AIが解き明かす生命科学の未来：1st Asia & Paciﬁc Bioinformatics Joint Conference」、 
@@ -42,7 +42,7 @@ Nat Commun., 16, 3355. https://doi.org/10.1038/s41467-025-58464-4 (2025.4.18)
 
 ---
 
-### **受賞**
+### 🏆**受賞**
 
 1.	**○難波里子**、李晨、大谷則子、山西芳裕.  
 「遺伝子摂動応答トランスクリプトームを用いた半教師あり深層学習による治療標的分子の予測と希少疾患への応用,  
@@ -69,7 +69,7 @@ Best NGS awards 受賞, オンライン, 2022年9月10-11日.
 
 ---
 
-### **競争的研究資金**
+### 💰**競争的研究資金**
 
 1.	**難波里子**, 日本学術振興会 特別研究員 (PD),  
 「GWASとTWASの融合による希少疾患の治療標的分子を予測する情報技術の開発」,  
@@ -87,7 +87,7 @@ ISMB2022 Travel Fellowship, $1,000 （採択率 47/155）
 
 ---
 
-### **招待講演**
+### 🗣️**招待講演**
 
 1.	**○難波里子**, 岩田通夫, 山西芳裕.  
 「ターゲットリポジショニング：遺伝子摂動応答トランスクリプトームを用いた創薬標的予測」,  
@@ -96,7 +96,7 @@ ISMB2022 Travel Fellowship, $1,000 （採択率 47/155）
 
 ---
 
-### **国際学会における口頭発表 [査読有り］**
+### 🌐**国際学会における口頭発表 [査読有り］**
 
 1.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyama Otani, and Yoshihiro Yamanishi.  
 “TRESOR: a disease signature integrating GWAS and TWAS  for therapeutic target discovery in rare diseases.”  
@@ -115,7 +115,7 @@ Proceedings, アメリカ マディソン, 2022年7月12日 (2022.7.10~2022.7.14
 
 ---
 
-### **国際学会におけるポスター発表 [査読有り］**
+### 🌐**国際学会におけるポスター発表 [査読有り］**
 
 1.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
 “A trans-disease approach for predicting therapeutic target proteins using large-scale omics data”.  
@@ -139,7 +139,7 @@ Proceedings, アメリカ マディソン, 2022年7月12日 (2022.7.10~2022.7.14
 
 ---
 
-### **国内学会・研究会における口頭発表 [査読あり]**
+### 🏯**国内学会・研究会における口頭発表 [査読あり]**
 
 1.	**○難波里子**、李晨、大谷則子、山西芳裕.  
 「深層学習による遺伝子摂動応答トランスクリプトームを用いた創薬標的分子の予測と希少疾患への応用,  
@@ -172,7 +172,7 @@ Proceedings, アメリカ マディソン, 2022年7月12日 (2022.7.10~2022.7.14
 
 ---
 
-### **国内学会・研究会における口頭発表 [査読あり]**
+### 🏯**国内学会・研究会における口頭発表 [査読あり]**
 
 1.	**○難波里子**, 李晨, 大谷則子, 山西芳裕.  
 「機械学習による治療標的分子の予測と希少疾患への応用」,  
@@ -200,7 +200,7 @@ Proceedings, アメリカ マディソン, 2022年7月12日 (2022.7.10~2022.7.14
 
 ---
 
-### **国内学会・研究会等におけるポスター発表**
+### 🏯**国内学会・研究会等におけるポスター発表**
 
 1.	阪口双葉、田中未来、**○難波里子**、上條陽平、庄司竜麻、菊池紀広、山西芳裕.  
 「抗老化効果を持つ化合物の化学的特徴や作用機序の情報解析」,  
@@ -241,7 +241,7 @@ Proceedings, アメリカ マディソン, 2022年7月12日 (2022.7.10~2022.7.14
 
 ---
 
-### メディア報道
+### 📰**メディア報道**
 
 1.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
 「希少疾患の創薬標的分子を予測できるAIを開発 ～ゲノムと遺伝子発現を融合し、難治性疾患の治療法の開拓へ～」,  
