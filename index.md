@@ -40,13 +40,14 @@ layout: base
 
 </div>
 
-&nbsp;
 
-<p style="margin-top: 20px;">
+<!-- 🔽 ニュースボックスの外に出すには、divの外で新しいセクションを開始 -->
+
+<div style="margin-top: 20px;">
   <a href="https://researchmap.jp/namba_satoko" target="_blank" rel="noopener noreferrer">
     業績リストはこちら（Researchmap）
   </a>
-</p>
+</div>
 
 ---
 
