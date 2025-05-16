@@ -138,34 +138,67 @@ Lyon in France, 2023年7月24日 (2023.7.23~2023.7.27).
 
 ### 🏯**Oral Presentations at Domestic Conferences [Peer-reviewed]**
 
-1.	**○難波里子**、李晨、大谷則子、山西芳裕.  
-「深層学習による遺伝子摂動応答トランスクリプトームを用いた創薬標的分子の予測と希少疾患への応用,  
-『日本薬学会第145回』一般口頭発表, 福岡, 2025年3月28日（2025.3.26~2025.3.29）.
+1. **Satoko Namba**, Chen Li, Noriko Otani, and Yoshihiro Yamanishi.  
+“Predicting therapeutic target molecules for rare diseases based on deep learning and genetically perturbed transcriptome.”  
+『The 145th Annual Meeting of the Pharmaceutical Society of Japan』, Fukuoka, 2025.3.28 (2025.3.26~2025.3.29).
 
-2.	吉本修人、亀淵由乃、**○難波里子**、山西芳裕、古屋茂樹、濱野桃子.  
-「In silicoによる代謝異常性統合失調症の新規治療標的と治療薬候補の予測」  
-一般口頭発表,『日本薬学会第145回』一般口頭発表, 福岡, 2025年3月28日（2025.3.26~2025.3.29）.
+2. Shuto Yoshimoto, … **Satoko Namba**, et al.  
+“In silico prediction of new therapeutic targets and drugs for schizophrenia.”  
+『The 145th Annual Meeting of the Pharmaceutical Society of Japan』,  
+Fukuoka, 2025.3.28 (2025.3.26~2025.3.29).
 
-3.	**○難波里子**、李晨、大谷則子、山西芳裕.  
-「遺伝子摂動応答トランスクリプトームを用いた半教師あり深層学習による治療標的分子の予測と希少疾患への応用」,  
-『第130回 日本解剖学会／第102回 日本生理学会／第98回 日本薬理学会合同大会』  
-一般口頭発表, 千葉, 2025年3月18日（2025.3.17~2025.3.19）.
+3. **Satoko Namba**, Chen Li, Noriko Otani, and Yoshihiro Yamanishi.  
+“Prediction of therapeutic target molecules for rare diseases using gene perturbation transcriptome and semi-supervised deep learning.” 『The 130th Annual Meeting of the Japanese Association of Anatomists (JAA)・The 102nd Annual Meeting of the Physiological Society of Japan (PSJ)・The 98th Annual Meeting of the Japanese Pharmacological Society (JPS)』,  
+Chiba, 2025.3.18 (2025.3.17~2025.3.19).
 
-4.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Otani, and Yoshihiro Yamanishi.  
+4. **Satoko Namba**, Chen Li, Noriko Otani, and Yoshihiro Yamanishi.  
+“Prediction of Therapeutic Target Molecules Using Machine Learning and Its Application to Rare Diseases.”  
+『10th CBI Society Symposium on Personalized Medicine』, Gifu, 2024.2.27.
+
+5. **Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Otani and Yoshihiro Yamanishi.  
 “Therapeutic target prediction for rare diseases integrating GWAS and TWAS data”.  
-『第12回生命医薬情報学連合大会』一般口頭発表, 千葉, 2023年9月7-9日 (2023.9.7~2023.9.9).（採択率16/142） 
+『Informatics in Biology, Medicine and Pharmacology 2023』, Chiba, 2023.9.7 (2023.9.7~2023.9.9).
 
-5.	Midori Iida, ..., **○Satoko Namba**, et al.   
+6. Midori Iida, … **Satoko Namba**, et al.  
 “Developing a network-based combination therapy approach for complex diseases”.  
-『CBI学会2022年大会』,一般口頭発表, 東京, 2022年10月25日 (2022.10.25~2022.10.27).  
+『The Chem-Bio Informatics Society CBI Annual Meeting 2022』,  
+Tokyo, 2022.10.25 (2022.10.25~2022.10.27).
 
-6.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
-「ターゲットリポジショニング：遺伝子摂動応答トランスクリプトームを用いた治療標的予測」,  
-『第11回生命医薬情報学連合大会』ハイライトトラック, 大阪, 2022年9月14日 (2022.9.13~2022.9.15).  
+7.	**Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
+“Target repositioning: predicting therapeutic targets using genetically perturbed transcriptome.”  
+『Informatics in Biology, Medicine and Pharmacology 2022』,  
+Osaka, 2022.9.14 (2022.9.13~2022.9.15).
 
-7.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
-“From drug repositioning to target repositioning: omics-based prediction of therapeutic targets for a variety of diseases”.  
-『CBI学会2021年大会』, オンライン, 2021年10月27日 (2021.10.26~2021.10.28).
+8. **Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
+“Target repositioning: predicting therapeutic targets using genetically perturbed transcriptome.”  
+『14th Annual Meeting of the Young Researchers Association for Bioinformatics and Life Science』,  
+Online, (2022.9.10~2022.9.11).
+
+9. **Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
+“From drug repositioning to target repositioning: omics-based prediction of therapeutic targets for a variety of diseases.”  
+『The Chem-Bio Informatics Society CBI Annual Meeting 2021』,  
+online, 10/26-28, 2021.
+
+10. **Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
+“Proposal for target repositioning by transcriptomic signatures.”  
+『13rd Annual Meeting of the Young Researchers Association for Bioinformatics and Life Science』,  
+online, 10/22-24, 2021.
+
+11. **Satoko Namba**, Michio Iwata, Midori Iida, and Yoshihiro Yamanishi.  
+“Predicting therapeutic targets and drugs by genetically perturbed transcriptome signatures.”  
+『12nd Annual Meeting of the Young Researchers Association for Bioinformatics and Life Science』,  
+online, 8/27-28, 2020.
+
+12. **Satoko Namba** and Hiroyuki Kubota.  
+“Comparison of blood insulin level in diabetic and healthy rats.”  
+『Association of Young Scientists for Mathematical Biology the 2rd Meeting』,  
+Kanagawa, 8/29-31, 2019.
+
+13. **Satoko Namba** and Hiroyuki Kubota.  
+“Comparison of blood insulin level in diabetic and healthy rats.”  
+『Toyota Physical and Chemical Research Institute Specially Promoted Research Program Summer Training Camp』,  
+Okinawa, 8/17-19, 2019.
+
 
 ---
 
