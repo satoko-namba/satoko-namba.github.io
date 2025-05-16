@@ -55,10 +55,24 @@ title: 経歴
 - 機械学習 / AI
 
 ## 🎴 ファビコン「難」に込めた想い
-このホームページのファビコンには、漢字の「難」を使用しています。  
-これは私の名字「難波」の一文字であると同時に、私の研究テーマである「難治性疾患」にも通じています。  
-「難」という文字には、**困難な課題に挑み、複雑な問題を解き明かしていく姿勢**を込めており、  
-私自身のアイデンティティと研究者としての信念を象徴するものです。
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+  <!-- 左側：文章 -->
+  <div style="flex: 1; min-width: 250px;">
+    <h2 style="margin-top: 0;">🎴 ファビコン「難」に込めた想い</h2>
+    <p>このホームページのファビコンには、漢字の「難」を使用しています。  
+    これは私の名字「難波」の一文字であると同時に、私の研究テーマである「難治性疾患」にも通じています。  
+    「難」という文字には、<strong>困難な課題に挑み、複雑な問題を解き明かしていく姿勢</strong>を込めており、  
+    私自身のアイデンティティと研究者としての信念を象徴するものです。</p>
+  </div>
+
+  <!-- 右側：ファビコン画像 -->
+  <div style="flex-shrink: 0;">
+    <img src="/favicon.ico" alt="favicon" style="width: 64px; height: 64px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.2); margin-top: 10px;">
+  </div>
+
+</div>
+
 
 ## 🔗 **関連リンク**  
 - [Researchmap](https://researchmap.jp/namba_satoko)  
