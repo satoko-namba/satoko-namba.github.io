@@ -266,3 +266,6 @@ Proceedings, アメリカ マディソン, 2022年7月12日 (2022.7.10~2022.7.14
 「生体分子と疾患のビッグデータから治療標的分子を高精度で予測するAIを開発」,  
 九州工業大学プレスリリース, 2022年7月4日.  
 [web page](https://www.kyutech.ac.jp/whats-new/press/entry-9220.html)
+
+
+<a href="/en/achievements.html">[English: Research Achievements]</a>
