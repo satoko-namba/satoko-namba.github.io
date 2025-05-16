@@ -4,7 +4,7 @@ title: 研究業績
 permalink: /achievements.html
 ---
 
-## **学術論文**
+### **学術論文**
 
 1.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyama Otani, and Yoshihiro Yamanishi.  
 Therapeutic target prediction for orphan diseases integrating genome-wide and transcriptome-wide association studies.  
@@ -27,7 +27,7 @@ Nat Commun., 16, 3355. https://doi.org/10.1038/s41467-025-58464-4 (2025.4.18)
 
 ---
 
-## **学術雑誌又は商業誌**
+### **学術雑誌又は商業誌**
 
 1.	**○難波里子**.  
 「Conference & Workshop AIが解き明かす生命科学の未来：1st Asia & Paciﬁc Bioinformatics Joint Conference」、 
@@ -42,7 +42,7 @@ Nat Commun., 16, 3355. https://doi.org/10.1038/s41467-025-58464-4 (2025.4.18)
 
 ---
 
-## **受賞**
+### **受賞**
 
 1.	**○難波里子**、李晨、大谷則子、山西芳裕.  
 「遺伝子摂動応答トランスクリプトームを用いた半教師あり深層学習による治療標的分子の予測と希少疾患への応用,  
@@ -69,7 +69,25 @@ Best NGS awards 受賞, オンライン, 2022年9月10-11日.
 
 ---
 
-## **招待講演**
+### **競争的研究資金**
+
+1.	**難波里子**, 日本学術振興会 特別研究員 (PD),  
+「GWASとTWASの融合による希少疾患の治療標的分子を予測する情報技術の開発」,  
+特別研究奨励金, 科研費番号 25KJ0159, 2025.4~2028.3  
+ (採択率 23.9%, ※特別研究員-DCに申請し、採用時までに博士の学位を取得して特別研究員-PDに資格変更した者を含む).
+
+2.	**○Satoko Namba**, 
+ISMB2022 Travel Fellowship, $1,000 （採択率 47/155）  
+
+3.	**難波里子**,  
+日本学術振興会 特別研究員 (DC1),  
+「治療効果を高める薬剤組み合わせを予測する情報技術の開発」,  
+特別研究奨励金, 科研費番号 22KJ2494, 2022.4~2025.3, （採択率 18.5%）.
+
+
+---
+
+### **招待講演**
 
 1.	**○難波里子**, 岩田通夫, 山西芳裕.  
 「ターゲットリポジショニング：遺伝子摂動応答トランスクリプトームを用いた創薬標的予測」,  
@@ -78,7 +96,7 @@ Best NGS awards 受賞, オンライン, 2022年9月10-11日.
 
 ---
 
-## **国際学会における口頭発表 [査読有り］**
+### **国際学会における口頭発表 [査読有り］**
 
 1.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyama Otani, and Yoshihiro Yamanishi.  
 “TRESOR: a disease signature integrating GWAS and TWAS  for therapeutic target discovery in rare diseases.”  
@@ -95,6 +113,7 @@ Abstract Talk, 英国 リバプール, 2025.7.20–24.
 『The 30th International Conference on Intelligent Systems for Molecular Biology (ISMB2022)』,  
 Proceedings, アメリカ マディソン, 2022年7月12日 (2022.7.10~2022.7.14).
 
+---
 
 ### **国際学会におけるポスター発表 [査読有り］**
 
@@ -118,3 +137,132 @@ Proceedings, アメリカ マディソン, 2022年7月12日 (2022.7.10~2022.7.14
 『The 31st International Conference on Intelligent Systems for Molecular Biology (ISMB2023)』,  
 フランス リヨン, 2023年7月24日 (2023.7.23~2023.7.27).
 
+---
+
+### **国内学会・研究会における口頭発表 [査読あり]**
+
+1.	**○難波里子**、李晨、大谷則子、山西芳裕.  
+「深層学習による遺伝子摂動応答トランスクリプトームを用いた創薬標的分子の予測と希少疾患への応用,  
+『日本薬学会第145回』一般口頭発表, 福岡, 2025年3月28日（2025.3.26~2025.3.29）.
+
+2.	吉本修人、亀淵由乃、**○難波里子**、山西芳裕、古屋茂樹、濱野桃子.  
+「In silicoによる代謝異常性統合失調症の新規治療標的と治療薬候補の予測」  
+一般口頭発表,『日本薬学会第145回』一般口頭発表, 福岡, 2025年3月28日（2025.3.26~2025.3.29）.
+
+3.	**○難波里子**、李晨、大谷則子、山西芳裕.  
+「遺伝子摂動応答トランスクリプトームを用いた半教師あり深層学習による治療標的分子の予測と希少疾患への応用」,  
+『第130回 日本解剖学会／第102回 日本生理学会／第98回 日本薬理学会合同大会』  
+一般口頭発表, 千葉, 2025年3月18日（2025.3.17~2025.3.19）.
+
+4.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Otani, and Yoshihiro Yamanishi.  
+“Therapeutic target prediction for rare diseases integrating GWAS and TWAS data”.  
+『第12回生命医薬情報学連合大会』一般口頭発表, 千葉, 2023年9月7-9日 (2023.9.7~2023.9.9).（採択率16/142） 
+
+5.	Midori Iida, ..., **○Satoko Namba**, et al.   
+“Developing a network-based combination therapy approach for complex diseases”.  
+『CBI学会2022年大会』,一般口頭発表, 東京, 2022年10月25日 (2022.10.25~2022.10.27).  
+
+6.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
+「ターゲットリポジショニング：遺伝子摂動応答トランスクリプトームを用いた治療標的予測」,  
+『第11回生命医薬情報学連合大会』ハイライトトラック, 大阪, 2022年9月14日 (2022.9.13~2022.9.15).  
+
+7.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
+“From drug repositioning to target repositioning: omics-based prediction of therapeutic targets for a variety of diseases”.  
+『CBI学会2021年大会』, オンライン, 2021年10月27日 (2021.10.26~2021.10.28).
+
+---
+
+### **国内学会・研究会における口頭発表 [査読あり]**
+
+1.	**○難波里子**, 李晨, 大谷則子, 山西芳裕.  
+「機械学習による治療標的分子の予測と希少疾患への応用」,  
+『第10回CBI学会 個別化医療研究会』, 岐阜, 2024年2月27日.  
+
+2.	**○難波里子**, 岩田通夫, 山西芳裕.  
+「ターゲットリポジショニング：遺伝子摂動応答トランスクリプトームを用いた治療標的予測」,  
+『生命情報科学若手の会の第14回研究会』, オンライン, 2022年9月10-11日.  
+
+3.	**○難波里子**, 岩田通夫, 山西芳裕.  
+「遺伝子発現データを用いたターゲットリポジショニングの提案」,  
+『生命情報科学若手の会の第13回研究会』, オンライン, 2021年10月22-24日.
+
+4.	**○難波里子**, 岩田通夫, 飯田緑, 山西芳裕.  
+「摂動応答トランスクリプトームを用いた創薬標的分子と治療薬の探索」,  
+『生命情報科学若手の会の第12回研究会』, オンライン, 2020年8月27-28日.
+
+5.	**○難波里子**, 久保田浩行.  
+「糖尿病ラットと健常ラットにおける血中インスリン濃度変化の比較」,  
+『第二回数理生物学夏の学校2019』, 神奈川, 2019年8月29-31日.
+
+7.	**○難波里子**, 久保田浩行.  
+「糖尿病ラットと健常ラットにおける血中インスリン濃度変化の比較」,  
+『豊田理化学研究所特定課題　夏合宿』, 沖縄, 2019年8月17-19日.
+
+---
+
+### **国内学会・研究会等におけるポスター発表**
+
+1.	阪口双葉、田中未来、**○難波里子**、上條陽平、庄司竜麻、菊池紀広、山西芳裕.  
+「抗老化効果を持つ化合物の化学的特徴や作用機序の情報解析」,  
+『日本薬学会第145回』一般ポスター発表, 福岡, 2025年3月27日（2025.3.26~2025.3.29）.
+
+2.	阪口双葉、田中未来、**○難波里子**、上條陽平、庄司竜麻、菊池紀広、山西芳裕.  
+「抗老化リプログラミングを誘導する低分子化合物の解析と予測」,  
+『第130回 日本解剖学会／第102回 日本生理学会／第98回 日本薬理学会合同大会』  
+一般ポスター発表, 千葉, 2025年3月18日（2025.3.17~2025.3.19）.
+
+3.	吉本修人, 亀淵由乃, **○難波里子**, 山西芳裕, 古屋茂樹, 濱野桃子.  
+「統合失調症様モデルマウスに対する新規治療標的と新薬の予測」,  
+『第61回化学関連支部合同九州大会』, 福岡, 2024年6月29日.
+
+4.	亀淵由乃, **○難波里子**, 関谷 拓海, 大谷 則子, 岩田 通夫, 山西 芳裕.  
+「機械学習による薬剤標的分子予測と薬剤組み合わせ効果の検討」,  
+『日本薬学会第144年会』, 神奈川, 2024年3月30 (2024.3.28~2024.3.31).
+
+5.	亀淵由乃, **○難波里子**, 関谷 拓海, 大谷 則子, 岩田 通夫, 山西 芳裕.  
+「シナジー効果を高める薬物の組み合わせを予測する情報技術の開発」,  
+『第97回日本薬理学会年会』, 神奈川, 2023年12月15（2023.12.14~2023.12.16）.
+
+6.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Otani, and Yoshihiro Yamanishi.  
+“Therapeutic target prediction for rare diseases integrating GWAS and TWAS data”.  
+『第12回生命医薬情報学連合大会』ポスター発表, 千葉, 2023年9月7日 (2023.9.7~2023.9.9).
+
+7.	**○Satoko Namba**, Michio Iwata and Yoshihiro Yamanishi.  
+「ターゲットリポジショニング：遺伝子摂動応答トランスクリプトームを用いた創薬標的予測」,  
+『第10回生命医薬情報学連合大会』, オンライン, 2021年9月27日 (2021.9.27〜2021.9.29).
+
+8.	**○難波里子**, 岩田通夫, 飯田緑, 山西芳裕.  
+「摂動応答トランスクリプトームを用いた創薬標的分子と治療薬の探索」,  
+『第9回生命医薬情報学連合大会』, オンライン, 2020年9月1-3日.
+
+9.	**○Satoko Namba**, Katsuya Ogata, and Shozo Tobimatsu.  
+"Frequency dependent effect of iTBS-tACS. English Poster Presentation of Kyushu University School of Medicine"",  
+福岡, 2018年11月24日.
+
+---
+
+### メディア報道
+
+1.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
+「希少疾患の創薬標的分子を予測できるAIを開発 ～ゲノムと遺伝子発現を融合し、難治性疾患の治療法の開拓へ～」,  
+名古屋大学 研究成果発信サイト プレスリリース, 2024年4月21日.
+https://www.nagoya-u.ac.jp/researchinfo/result/2025/04/ai-103.html
+
+2.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
+「希少疾患の創薬標的分子を予測できるAIを開発 ～ゲノムと遺伝子発現を融合し、難治性疾患の治療法の開拓へ～」,  
+日本の研究.com, 2024年4月21日.  
+https://research-er.jp/articles/view/143717
+
+3.	**○難波里子**, 岩田通夫, 山西芳裕. 「国際会議参加報告 ISMB2022」,  
+日本バイオインフォマティクス学会ニュースレター第42号, 2023年1月31日.  
+https://www.jsbi.org/media/files/_u/topic/file/nl42.pdf
+
+4.	**○難波里子**, 岩田通夫, 山西芳裕.  
+「生体分子と疾患のビッグデータから治療標的分子を高精度で予測するAIを開発」,  
+日本最大の化学ポータルサイトChem-Station スポットライトリサーチ第408回 寄稿, 2022年8月16日.  
+https://www.chem-station.com/blog/2022/08/drtr.html#google_vignette  
+
+5.	**○難波里子**, 岩田通夫, 山西芳裕.  
+「生体分子と疾患のビッグデータから治療標的分子を高精度で予測するAIを開発」,  
+九州工業大学プレスリリース, 2022年7月4日.  
+https://www.kyutech.ac.jp/whats-new/press/entry-9220.html
