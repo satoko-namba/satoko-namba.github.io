@@ -73,6 +73,7 @@ permalink: /en/about.html
 - [Researchmap (JP)](https://researchmap.jp/namba_satoko)  
 - [Google Scholar](https://scholar.google.com)  
 - [ORCID](https://orcid.org/0000-0003-1873-8639)
+- [ResearchGate](https://www.researchgate.net/profile/Satoko-Namba-2)
 
 
 <div style="margin-top: 20px;">
