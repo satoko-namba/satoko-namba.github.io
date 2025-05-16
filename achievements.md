@@ -4,7 +4,7 @@ title: 研究業績
 permalink: /achievements.html
 ---
 
-## 学術論文
+## **学術論文**
 
 1.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyama Otani, and Yoshihiro Yamanishi.  
 Therapeutic target prediction for orphan diseases integrating genome-wide and transcriptome-wide association studies.  
