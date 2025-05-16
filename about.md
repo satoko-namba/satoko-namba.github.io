@@ -13,6 +13,7 @@ title: 経歴
       <li><strong>出身：</strong>島根県大田市</li>
       <li><strong>所属：</strong>名古屋大学 大学院情報学研究科　複雑系科学専攻 / JSPS特別研究員PD</li>
       <li><strong>専門：</strong>AI創薬・ターゲットリポジショニング</li>
+      <li><strong>趣味：</strong>研究、ピアノや絵、写真など芸術的で創造的なこと</li>
     </ul>
   </div>
 
