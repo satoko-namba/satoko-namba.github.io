@@ -6,8 +6,8 @@ title: 経歴
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <!-- 左側：基本情報 -->
-  <div style="flex: 1; min-width: 250px; font-weight: bold;">
-    <h2>🧬 基本情報</h2>
+  <div style="flex: 1; min-width: 250px;">
+    <h2 style="margin-top: 0; font-weight: bold;">🧬 基本情報</h2>
     <ul style="list-style: none; padding-left: 0; font-size: 1rem;">
       <li><strong>氏名：</strong>難波 里子（Satoko Namba）</li>
       <li><strong>出身：</strong>島根県大田市</li>
