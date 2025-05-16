@@ -6,7 +6,17 @@
     {%- assign page_titles = site.pages | map: 'title' | compact %}
     
     <!-- サイトタイトル（←これは残す） -->
+    {%- comment %}
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+    {%- endcomment %}
+    <a class="site-title" href="{{ '/' | relative_url }}">
+      {% if page.lang == "en" %}
+        Satoko Namba Research Homepage | AI-based drug discovery & Reare Disease Research
+      {% else %}
+        難波里子 研究ホームページ | AI創薬 & 難治性疾患の研究
+      {% endif %}
+    </a>
+
 
     <!-- ナビゲーションだけ削除する -->
     {%- comment %}
