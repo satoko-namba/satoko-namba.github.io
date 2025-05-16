@@ -34,7 +34,7 @@ Target repositioning expands this idea from drugs to **therapeutic targets**. Sp
 
 Furthermore, while drug repositioning is often economically challenging due to patent expiration and lower pricing potential, target repositioning allows for the **design of new compounds** that regulate the repositioned targets. This provides **greater incentives for pharmaceutical companies**, making it not only scientifically but also commercially viable.
 
-<img src="../assects/target_repositioning_en.png" alt="Explanation of target repositioning" width="500">
+<img src="../assets/target_repositioning_en.png" alt="Explanation of target repositioning" width="500">
 
 
 <div style="margin-top: 20px;">
