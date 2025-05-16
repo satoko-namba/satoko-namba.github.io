@@ -49,13 +49,13 @@ lang: en
   <p>Publication Lists:</p>
   <ul style="margin: 0; padding-left: 1.2em; line-height: 1.6;">
     <li>
-      <a href="https://satoko-namba.github.io/achievements.html" target="_blank" rel="noopener noreferrer">
-        My Research Homepage (Japanese)
+      <a href="https://satoko-namba.github.io/en" target="_blank" rel="noopener noreferrer">
+        My Research Homepage (English)
       </a>
     </li>
     <li>
-      <a href="https://researchmap.jp/namba_satoko" target="_blank" rel="noopener noreferrer">
-        Researchmap (Japanese)
+      <a href="https://researchmap.jp/namba_satoko?lang=en" target="_blank" rel="noopener noreferrer">
+        Researchmap (English)
       </a>
     </li>
   </ul>
