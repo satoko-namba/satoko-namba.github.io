@@ -15,18 +15,11 @@ title: Research Homepage
 - 治療効果を高める薬剤組み合わせ予測のためのAI・機械学習手法の開発
 
 
-## **お知らせ・更新情報**
+## 💠**お知らせ・更新情報**
 
 <div style="max-height: 240px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; background-color: #fefefe;">
 
 <dl style="margin: 0; font-family: 'Noto Sans JP', sans-serif;">
-  
-  <dt style="font-weight: bold; margin-top: 10px;">
-    <span style="background-color: #ECB758; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">発表予定</span>
-    <time style="margin-left: 10px; color: #666;">2025.05.14</time>
-  </dt>
-  <dd style="margin: 0 0 10px 0;"><a href="#" style="text-decoration: none; color: #333;">
-    国際学会ISMB/ECCB 2025のTransMedトラックにて、口頭発表が採択されました。</a></dd>
   
   <dt style="font-weight: bold; margin-top: 10px;">
     <span style="background-color: #1EBADE; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">出版</span>
@@ -57,27 +50,10 @@ title: Research Homepage
 
   <dt style="font-weight: bold; margin-top: 10px;">
     <span style="background-color: #ECB758; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">発表予定</span>
-    <time style="margin-left: 10px; color: #666;">2025.07.20</time>
+    <time style="margin-left: 10px; color: #666;">2025.05.14</time>
   </dt>
-  <dd style="margin: 0 0 10px 0;">
-    ISMB 2025 (Liverpool, UK) にて口頭発表予定
-  </dd>
-
-  <dt style="font-weight: bold; margin-top: 10px;">
-    <span style="background-color: #9DC3E6; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">投稿予定</span>
-    <time style="margin-left: 10px; color: #666;">2025.06</time>
-  </dt>
-  <dd style="margin: 0 0 10px 0;">
-    SYNERGIE 論文を Science Advances に投稿予定
-  </dd>
-
-  <dt>
-    <span style="background-color: #666; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">留学</span>
-    <time style="margin-left: 10px; color: #666;">2025.08〜2025.10</time>
-  </dt>
-  <dd style="margin: 0 0 10px 0;">
-    欧州短期留学（ERCプロジェクト）を予定
-  </dd>
+  <dd style="margin: 0 0 10px 0;"><a href="#" style="text-decoration: none; color: #333;">
+    国際学会ISMB/ECCB 2025のTransMedトラックにて、口頭発表が採択されました。</a></dd>
 
 </dl>
 </div>
