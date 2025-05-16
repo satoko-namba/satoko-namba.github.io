@@ -11,19 +11,19 @@ permalink: /en/research.html
   </a>
 </div>
 
-# Research Overview
+## **Research Overview**
 
 Here, I introduce the research topics and methodologies I am currently working on.
 
-### Main Research Topics
+### **Main Research Topics**
 - Development of AI and machine learning methods for **target repositioning**
 - Prediction of therapeutic and druggable targets for **rare and intractable diseases** using AI and omics data
 - Development of AI methods to predict **synergistic drug combinations** that enhance treatment efficacy
 
 ---
 
-#### AI-based Target Repositioning  
-##### Proposal of Target Repositioning  
+#### **AI-based Target Repositioning**  
+##### **Proposal of Target Repositioning**  
 ([Namba _et al_., _Bioinformatics_, 38(Supplement_1) i68–i76, 2022](https://doi.org/10.1093/bioinformatics/btac240))
 
 Identifying therapeutic targets (biomolecules whose modulation can lead to disease treatment) is typically the first step in drug development. If inappropriate targets are chosen at this stage, it significantly reduces the success rate of subsequent clinical trials. However, most targets easily inferred from pathological knowledge have already been extensively studied, and the exhaustion of novel therapeutic targets has become a global issue.
