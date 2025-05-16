@@ -57,7 +57,7 @@ title: 経歴
 ## 🔗 **関連リンク**  
 - [Researchmap](https://researchmap.jp/namba_satoko)  
 - [Google Scholar](https://scholar.google.com)
-- [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-1873-8639)
+- [ORCID](https://orcid.org/0000-0003-1873-8639)
 
 
 
