@@ -242,30 +242,31 @@ Proceedings, アメリカ マディソン, 2022年7月12日 (2022.7.10~2022.7.14
 
 ---
 
-### 📰**edia Coverage**
+### 📰**Media Coverage**
 
 1.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
-「希少疾患の創薬標的分子を予測できるAIを開発 ～ゲノムと遺伝子発現を融合し、難治性疾患の治療法の開拓へ～」,  
-名古屋大学 研究成果発信サイト プレスリリース, 2024年4月21日.  
+“Development of AI to predict therapeutic target molecules for rare diseases — integrating genome and transcriptome data for novel therapies”,  
+Nagoya University Research News Press Release, April 21, 2024.  
 [web page](https://www.nagoya-u.ac.jp/researchinfo/result/2025/04/ai-103.html)
 
 2.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
-「希少疾患の創薬標的分子を予測できるAIを開発 ～ゲノムと遺伝子発現を融合し、難治性疾患の治療法の開拓へ～」,  
-日本の研究.com, 2024年4月21日.  
+“Development of AI to predict therapeutic target molecules for rare diseases — integrating genome and transcriptome data for novel therapies”,  
+research_er.com, April 21, 2024.  
 [web page](https://research-er.jp/articles/view/143717)
 
-3.	**○難波里子**, 岩田通夫, 山西芳裕. 「国際会議参加報告 ISMB2022」,  
-日本バイオインフォマティクス学会ニュースレター第42号, 2023年1月31日.  
+3.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.   
+“Conference Report: ISMB2022”,  
+Japanese Society for Bioinformatics (JSBI) Newsletter No. 42, January 31, 2023.  
 [web page](https://www.jsbi.org/media/files/_u/topic/file/nl42.pdf)
 
-4.	**○難波里子**, 岩田通夫, 山西芳裕.  
-「生体分子と疾患のビッグデータから治療標的分子を高精度で予測するAIを開発」,  
-日本最大の化学ポータルサイトChem-Station スポットライトリサーチ第408回 寄稿, 2022年8月16日.  
+4.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
+“AI accurately predicts therapeutic targets from big data of biomolecules and diseases”  
+Chem-Station Spotlight Research No. 408, Japan’s largest chemistry portal site, August 16, 2022.  
 [web page](https://www.chem-station.com/blog/2022/08/drtr.html#google_vignette)  
 
-5.	**○難波里子**, 岩田通夫, 山西芳裕.  
-「生体分子と疾患のビッグデータから治療標的分子を高精度で予測するAIを開発」,  
-九州工業大学プレスリリース, 2022年7月4日.  
+5.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
+“AI accurately predicts therapeutic targets from big data of biomolecules and diseases”  
+Kyushu Institute of Technology Press Release, July 4, 2022.   
 [web page](https://www.kyutech.ac.jp/whats-new/press/entry-9220.html)
 
 
