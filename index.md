@@ -6,8 +6,6 @@
 - 治療効果を高める薬剤組み合わせ予測のためのAI・機械学習手法の開発
 
 
-## お知らせ・更新履歴
-
 <h2>お知らせ・更新情報</h2>
 
 <div style="max-height: 240px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; background-color: #fefefe;">
@@ -24,6 +22,24 @@
     <time style="margin-left: 10px; color: #666;">2025.05.10</time>
   </dt>
   <dd style="margin: 0 0 10px 0;"><a href="#">**した。</a></dd>
+
+  <dt>
+    <span style="background-color: #999; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">活動</span>
+    <time style="margin-left: 10px; color: #666;">2025.05.03</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;"><a href="#"**</a></dd>
+
+  <dt>
+    <span style="background-color: #999; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">活動</span>
+    <time style="margin-left: 10px; color: #666;">2025.05.03</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;"><a href="#"**</a></dd>
+
+  <dt>
+    <span style="background-color: #999; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">活動</span>
+    <time style="margin-left: 10px; color: #666;">2025.05.03</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;"><a href="#"**</a></dd>
 
   <dt>
     <span style="background-color: #999; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">活動</span>
