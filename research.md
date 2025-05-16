@@ -10,7 +10,6 @@ permalink: /research.html
   </a>
 </div>
 
-<img src="./images/target_repositioning.png" alt="target repositioningの説明" width="500">
 
 # 研究紹介
 
