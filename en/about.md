@@ -5,6 +5,7 @@ lang: en
 permalink: /en/about.html
 ---
 
+<!-- 🧬 Basic Information< -->
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <!-- Left: Basic Info -->
@@ -25,16 +26,24 @@ permalink: /en/about.html
   </div>
 </div>
 
+---
+
 ### 🎓 Education
 - Mar. 2024 Ph.D. (Computer Science), Kyushu Institute of Technology  
   (**early completion in 2 years**; standard duration: 3 years)  
 - Mar. 2022 M.S. (Computer Science), Kyushu Institute of Technology  
 - Mar. 2020 B.S. (Biomedical Sciences), Kyushu University  
+<br>
+
+---
 
 ### 🧪 Research & Work Experience
 - Mar. 2025 – present JSPS PD Fellow @ Nagoya University  
 - Apr. 2024 – Mar. 2025 JSPS PD (transitioned from DC1) @ Nagoya University  
 - Apr. 2022 – Mar. 2024 JSPS DC1 Fellow @ Kyushu Institute of Technology  
+<br>
+
+---
 
 ### 🌍 Academic Societies
 
@@ -45,6 +54,9 @@ permalink: /en/about.html
 - Japanese Society for Bioinformatics (JSBI)  
 - The Pharmaceutical Society of Japan  
 - The Japanese Pharmacological Society  
+<br>
+
+---
 
 ### 💻 Skills & Tools
 - Python / R / Git  
@@ -88,6 +100,7 @@ I sincerely appreciate the contributions of my co-authors, lab members, and the 
 - [ORCID](https://orcid.org/0000-0003-1873-8639)
 - [ResearchGate](https://www.researchgate.net/profile/Satoko-Namba-2)
 
+---
 
 <div style="margin-top: 20px;">
   <a href="../about.html">
