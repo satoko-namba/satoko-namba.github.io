@@ -63,24 +63,29 @@ Vol. 41, No. 7, pp. 181–187, Yodosha, April 2023. ISBN 978-4-7581-0410-4. (in 
 
 1. **Satoko Namba**.  
 『The 130th Annual Meeting of the Japanese Association of Anatomists (JAA)・The 102nd Annual Meeting of the Physiological Society of Japan (PSJ)・The 98th Annual Meeting of the Japanese Pharmacological Society (JPS)』,  
-Young Investigator Award, 2025.3.18.  
+Young Investigator Award,  
+2025.3.18.  
 [[Award Certificate]](https://satoko-namba.github.io/assets/docs/appw2025_award.jpg)
 
-2.	**Satoko Namba**.  
+3.	**Satoko Namba**.  
 『Informatics in Biology, Medicine and Pharmacology 2023』,  
-Outstanding Poster Award, 2023.9.7.  
+Outstanding Poster Award,  
+2023.9.7.  
 [[Award Certificate]](https://satoko-namba.github.io/assets/docs/IIBMP2023_award.jpg)
 
-4.	**Satoko Namba**, et al.  
+5.	**Satoko Namba**, et al.  
 『14th Annual Meeting of the Young Researchers Association for Bioinformatics and Life Science』,  
-Best NGS awards, 2022.9.11.  
+Best NGS awards,  
+2022.9.11.  
 [[Award Certificate]](https://satoko-namba.github.io/assets/docs/BestNGS_award.jpg)
 
-6.	**Satoko Namba**.  
-『The Chem-Bio Informatics Society CBI Annual Meeting 2021』,  
-Excellent Presentation Awards, 2021.10.27.
-
 7.	**Satoko Namba**.  
+『The Chem-Bio Informatics Society CBI Annual Meeting 2021』,  
+Excellent Presentation Awards,  
+2021.10.27.  
+[[Award Certificate]](https://satoko-namba.github.io/assets/docs/CBI2021_award.jpg)
+
+9.	**Satoko Namba**.  
 『Informatics in Biology, Medicine and Pharmacology 2021』,  
 Outstanding Poster Award, 2021.9.27.
 
