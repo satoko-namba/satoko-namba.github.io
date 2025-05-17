@@ -34,7 +34,7 @@ permalink: /en/about.html
 
 ---
 
-### 🎓 Education
+### 🎓 **Education**
 - Mar. 2024 Ph.D. (Computer Science), Kyushu Institute of Technology  
   (**early completion in 2 years**; standard duration: 3 years)  
 - Mar. 2022 M.S. (Computer Science), Kyushu Institute of Technology  
@@ -43,7 +43,7 @@ permalink: /en/about.html
 
 ---
 
-### 🧪 Research & Work Experience
+### 🧪 **Research & Work Experience**
 - Mar. 2025 – present JSPS PD Fellow @ Nagoya University  
 - Apr. 2024 – Mar. 2025 JSPS PD (transitioned from DC1) @ Nagoya University  
 - Apr. 2022 – Mar. 2024 JSPS DC1 Fellow @ Kyushu Institute of Technology  
@@ -51,7 +51,7 @@ permalink: /en/about.html
 
 ---
 
-### 🌍 Academic Societies
+### 🌍 **Academic Societies**
 
 #### International
 - International Society for Computational Biology (ISCB)
@@ -64,7 +64,7 @@ permalink: /en/about.html
 
 ---
 
-### 💻 Skills & Tools
+### 💻 **Skills & Tools**
 - Python / R / Git  
 - Omics data analysis (bulk & single-cell)  
 - Machine Learning / Artificial Intelligence  
@@ -100,7 +100,7 @@ I sincerely appreciate the contributions of my co-authors, lab members, and the 
 
 ---
 
-### 🔗 Links
+### 🔗 **Links**
 - [Researchmap (EN)](https://researchmap.jp/namba_satoko?lang=en)  
 - [Google Scholar](https://scholar.google.com/citations?hl=ja&user=Oo9a2h8AAAAJ)  
 - [ORCID](https://orcid.org/0000-0003-1873-8639)
