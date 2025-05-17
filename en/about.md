@@ -52,6 +52,9 @@ permalink: /en/about.html
 - Machine Learning / Artificial Intelligence  
 <br>
 
+---
+
+<!-- 🎴 About the Favicon -->
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <!-- 左側：文章 -->
@@ -70,12 +73,14 @@ permalink: /en/about.html
 
 </div>
 
+---
 
 ### 🙇**Acknowledgements**
 I would like to express my heartfelt gratitude to **Professor Yoshihiro Yamanishi** at Nagoya University, who kindly welcomed me into his laboratory despite my background in a different field, and guided me from the ground up to become a bioinformatics researcher.  
 I am also deeply thankful to **Associate Professor Michio Iwata** at Kyushu Institute of Technology, whose generous and thoughtful mentorship has always supported me.  
 I sincerely appreciate the contributions of my co-authors, lab members, and the many professors who provided valuable guidance during my doctoral studies.
 
+---
 
 ### 🔗 Links
 - [Researchmap (EN)](https://researchmap.jp/namba_satoko?lang=en)  
