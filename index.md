@@ -39,7 +39,10 @@ title: Research Homepage
     <span style="background-color: #999; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">活動</span>
     <time style="margin-left: 10px; color: #666;">2025.03.26 ~ 2025.3.29</time>
   </dt>
-  <dd style="margin: 0 0 10px 0;"><a href="#" style="text-decoration: none; color: #333;">日本薬学会第145回に参加しました。</a></dd>
+  <dd style="margin: 0 0 10px 0;">
+    <a href="#" style="text-decoration: none; color: #333;">日本薬学会第145回に参加しました。
+    </a>
+  </dd>
 
   <dt style="font-weight: bold; margin-top: 10px;">
     <span style="background-color: #ECB758; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">受賞</span>
@@ -49,6 +52,15 @@ title: Research Homepage
     <a href="#" style="text-decoration: none; color: #333;">
       第98回 日本薬理学会にてYoung Investigator Awardを受賞しました。 
     <a href="/assets/docs/appw2025_award_certificate.pdf" target="_blank" rel="noopener noreferrer">[賞状]</a>
+    </a>
+  </dd>
+
+  <dt>
+    <span style="background-color: #999; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">活動</span>
+    <time style="margin-left: 10px; color: #666;">2025.3.17 ~ 2025.3.19</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;">
+    <a href="#" style="text-decoration: none; color: #333;">第98回 日本薬理学会（APPW2025）に参加しました。
     </a>
   </dd>
 
