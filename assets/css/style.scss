@@ -6,3 +6,8 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+/* 例：すべてのページのタイトルをカスタマイズ */
+.post-title {
+  color: #20519A;
+  font-weight: bold;
+}
