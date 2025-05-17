@@ -68,17 +68,18 @@ Young Investigator Award, 2025.3.18.
 
 2.	**Satoko Namba**.  
 『Informatics in Biology, Medicine and Pharmacology 2023』,  
-Outstanding Poster Award, 2023.9.7.
+Outstanding Poster Award, 2023.9.7.  
+[[Award Certificate]](https://satoko-namba.github.io/assets/docs/IIBMP2023_award.jpg)
 
-3.	**Satoko Namba**, et al.  
+4.	**Satoko Namba**, et al.  
 『14th Annual Meeting of the Young Researchers Association for Bioinformatics and Life Science』,  
 Best NGS awards, 2022.9.11.
 
-4.	**Satoko Namba**.  
+5.	**Satoko Namba**.  
 『The Chem-Bio Informatics Society CBI Annual Meeting 2021』,  
 Excellent Presentation Awards, 2021.10.27.
 
-5.	**Satoko Namba**.  
+6.	**Satoko Namba**.  
 『Informatics in Biology, Medicine and Pharmacology 2021』,  
 Outstanding Poster Award, 2021.9.27.
 
