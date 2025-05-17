@@ -45,7 +45,7 @@ permalink: /en/about.html
 
 ### 🧪 **Research & Work Experience**
 - Mar. 2025 – present JSPS PD Fellow @ Nagoya University  
-- Apr. 2024 – Mar. 2025 JSPS PD (transitioned from DC1) @ Nagoya University  
+- Apr. 2024 – Mar. 2025 JSPS PD (transitioned from DC1) Fellow @ Nagoya University  
 - Apr. 2022 – Mar. 2024 JSPS DC1 Fellow @ Kyushu Institute of Technology  
 <br>
 
