@@ -50,7 +50,7 @@ permalink: /en/about.html
 - Python / R / Git  
 - Omics data analysis (bulk & single-cell)  
 - Machine Learning / Artificial Intelligence  
-
+<br>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
