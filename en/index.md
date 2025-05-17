@@ -40,6 +40,17 @@ lang: en
     Participated in the 145th Annual Meeting of the Pharmaceutical Society of Japan.
   </dd>
 
+  <dt style="font-weight: bold; margin-top: 10px;">
+    <span style="background-color: #ECB758; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">Award</span>
+    <time style="margin-left: 10px; color: #666;">2025.03.18</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;">
+    <a href="#" style="text-decoration: none; color: #333;">
+      Received the Young Investigator Award at The 98th Annual Meeting of the Japanese Pharmacological Society (JPS).
+    <a href="/assets/docs/appw2025_award_certificate.pdf" target="_blank" rel="noopener noreferrer">[Award Certificate]</a>
+    </a>
+  </dd>
+
 </dl>
 </div>
 <br><br>
@@ -52,7 +63,7 @@ lang: en
 <dl style="margin: 0; font-family: 'Noto Sans JP', sans-serif;">
 
   <dt style="font-weight: bold; margin-top: 10px;">
-    <span style="background-color: #ECB758; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">Upcoming Talk</span>
+    <span style="background-color: #1EBADE; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">Upcoming Talk</span>
     <time style="margin-left: 10px; color: #666;">May 14, 2025</time>
   </dt>
   <dd style="margin: 0 0 10px 0;"><a href="#" style="text-decoration: none; color: #333;">
