@@ -15,7 +15,7 @@ lang: en
 - Development of AI and machine learning methods for target repositioning.
 - Development of predictive models for therapeutic targets and druggable genes for rare and intractable diseases.
 - Development of synergy prediction methods for drug combinations to enhance therapeutic effects.
-<br>
+<br><br>
 
 
 ## 🏆**News & Updates**
