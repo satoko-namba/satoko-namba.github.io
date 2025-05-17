@@ -85,6 +85,9 @@ title: Research Homepage
 
 </dl>
 </div>
+<br><br>
+
+🌸 **医学からバイオインフォマティクスへの道を支えてくださった、すべての恩師と共同研究者の皆様に、心より感謝申し上げます。** 🌸
 
 
 <hr style="margin: 30px 0; border: none; border-top: 1px solid #ccc;" />
