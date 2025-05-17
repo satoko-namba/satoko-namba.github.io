@@ -71,14 +71,15 @@ Young Investigator Award, 千葉, 2025年3月18日（2025.3.17~2025.3.19）, （
 
 4.	**○難波里子**, 小川友希, 横山源太郎, 濱谷和, 下河舞子, 武田淳志.  
 “スペースゲノム 解析とその活用についての諸考察”. 『生命情報科学若手の会の第14回研究会』,  
-Best NGS awards 受賞, オンライン, 2022年9月10-11日.
+Best NGS awards 受賞, オンライン, 2022年9月10-11日.  
+[[賞状]](https://satoko-namba.github.io/assets/docs/BestNGS_award.jpg)
 
-5.	**○Satoko Namba**, Michio Iwata and Yoshihiro Yamanishi.  
+6.	**○Satoko Namba**, Michio Iwata and Yoshihiro Yamanishi.  
 “From drug repositioning to target repositioning: omics-based prediction of therapeutic targets for a variety of diseases”.  
 『CBI学会2021年大会』, 口頭発表賞 受賞 (Excellent Presentation Awards), オンライン, 
 2021年10月27日 （受賞率4/34=11.7%）.  
 
-6.	**○Satoko Namba**, Michio Iwata and Yoshihiro Yamanishi.  
+7.	**○Satoko Namba**, Michio Iwata and Yoshihiro Yamanishi.  
 「ターゲットリポジショニング：遺伝子摂動応答トランスクリプトームを用いた創薬標的予測」,  
 『第10回生命医薬情報学連合大会』, 優秀ポスター賞 受賞, オンライン,  
 2021年9月27日 (2021.9.27〜2021.9.29) (受賞率9/86=10.4%).
