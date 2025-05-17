@@ -5,3 +5,10 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+/* 全ページ共通のタイトルカラー */
+.post-title {
+  color: #20519A;
+  font-weight: bold;
+  font-family: 'Noto Sans JP', sans-serif;
+}
