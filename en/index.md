@@ -49,7 +49,7 @@ lang: en
   <dd style="margin: 0 0 10px 0;">
     <a href="#" style="text-decoration: none; color: #333;">
       Received the Young Investigator Award at The 98th Annual Meeting of the Japanese Pharmacological Society (JPS).
-    <a href="/assets/docs/appw2025_award_certificate.pdf" target="_blank" rel="noopener noreferrer">[Award Certificate]</a>
+    <a href="/assets/docs/appw2025_award.jpg" target="_blank" rel="noopener noreferrer">[Award Certificate]</a>
     </a>
   </dd>
 
