@@ -5,6 +5,13 @@ lang: en
 permalink: /en/achievements.html
 ---
 
+<div style="margin-top: 20px;">
+  <a href="../achievements.html">
+    [日本語版はこちら / Japanese version]
+  </a>
+</div>
+
+
 ### 📚**Peer-Reviewed Journal Articles**
 
 1.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyama Otani, and Yoshihiro Yamanishi.  
