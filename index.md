@@ -5,7 +5,7 @@ title: Research Homepage
 
 <div style="margin-top: 20px;">
   <a href="./en/index.html" rel="noopener noreferrer">
-    [English version]
+    [English Version]
   </a>
 </div>
 
@@ -114,6 +114,6 @@ title: Research Homepage
 
 <div style="margin-top: 20px;">
   <a href="./en/index.html" rel="noopener noreferrer">
-    [English version]
+    [English Version]
   </a>
 </div>
