@@ -135,14 +135,15 @@ Online short talk, 2023年7月19日.
 1.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
 “A trans-disease approach for predicting therapeutic target proteins using large-scale omics data”.  
 『1st Asia & Pacific Bioinformatics Joint Conference (APBJC2024)』,  
-Okinawa in Japan, 2024年10月24日 (2024.10.22~2024.10.25).
+Okinawa in Japan, 2024年10月24日 (2024.10.22~2024.10.25).  
+[[📺YouTube]](https://www.youtube.com/watch?v=ubSPoumE6cM)
 
-2.	Midori Iida, ..., **○Satoko Namba**, et al.  
+3.	Midori Iida, ..., **○Satoko Namba**, et al.  
 “A Computational Method for Predicting Synergistic Drug Combinations Using Network Propagation and Trans-Omics Analysis”.  
 『1st Asia & Pacific Bioinformatics Joint Conference (APBJC2024)』,  
 Okinawa in Japan, 2024年10月23日 (2024.10.22~2024.10.25).  
 
-3.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
+4.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
 “A trans-disease approach for omics-based prediction of therapeutic target proteins”.  
 『The 32nd International Conference on Intelligent Systems for Molecular Biology (ISMB2024)』,  
 Montréal in Canada, 2024年7月15日 (2024.7.12~2024.7.16).  
@@ -151,7 +152,8 @@ Montréal in Canada, 2024年7月15日 (2024.7.12~2024.7.16).
 5.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
 “Target repositioning to predict therapeutic target proteins using genetically perturbed transcriptome data”.  
 『The 31st International Conference on Intelligent Systems for Molecular Biology (ISMB2023)』,  
-Lyon in France, 2023年7月24日 (2023.7.23~2023.7.27).
+Lyon in France, 2023年7月24日 (2023.7.23~2023.7.27).  
+[[📺YouTube]](https://www.youtube.com/watch?v=dCtTflzjZxY)
 
 ---
 
