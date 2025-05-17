@@ -23,7 +23,7 @@ title: Research Homepage
 <dl style="margin: 0; font-family: 'Noto Sans JP', sans-serif;">
   
   <dt style="font-weight: bold; margin-top: 10px;">
-    <span style="background-color: #1EBADE; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">出版</span>
+    <span style="background-color: #C248C3; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">出版</span>
     <time style="margin-left: 10px; color: #666;">2025.04.18</time>
   </dt>
   <dd style="margin: 0 0 10px 0;"><a href="#" style="text-decoration: none; color: #333;">
@@ -36,6 +36,17 @@ title: Research Homepage
     <time style="margin-left: 10px; color: #666;">2025.03.26 ~ 2025.3.29</time>
   </dt>
   <dd style="margin: 0 0 10px 0;"><a href="#" style="text-decoration: none; color: #333;">日本薬学会第145回に参加しました。</a></dd>
+
+  <dt style="font-weight: bold; margin-top: 10px;">
+    <span style="background-color: #ECB758; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">受賞</span>
+    <time style="margin-left: 10px; color: #666;">2025.03.18</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;">
+    <a href="#" style="text-decoration: none; color: #333;">
+      第98回 日本薬理学会にてYoung Investigator Awardを受賞しました。 
+    <a href="https://doi.org/10.1038/s41467-025-58464-4" target="_blank" rel="noopener noreferrer">[賞状]</a>
+    </a>
+  </dd>
 
 
 </dl>
@@ -50,7 +61,7 @@ title: Research Homepage
 <dl style="margin: 0; font-family: 'Noto Sans JP', sans-serif;">
 
   <dt style="font-weight: bold; margin-top: 10px;">
-    <span style="background-color: #ECB758; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">発表予定</span>
+    <span style="background-color: #1EBADE; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">発表予定</span>
     <time style="margin-left: 10px; color: #666;">2025.05.14</time>
   </dt>
   <dd style="margin: 0 0 10px 0;"><a href="#" style="text-decoration: none; color: #333;">
