@@ -74,12 +74,13 @@ Outstanding Poster Award, 2023.9.7.
 4.	**Satoko Namba**, et al.  
 『14th Annual Meeting of the Young Researchers Association for Bioinformatics and Life Science』,  
 Best NGS awards, 2022.9.11.
+[[Award Certificate]](https://satoko-namba.github.io/assets/docs/BestNGS_award.jpg)
 
-5.	**Satoko Namba**.  
+6.	**Satoko Namba**.  
 『The Chem-Bio Informatics Society CBI Annual Meeting 2021』,  
 Excellent Presentation Awards, 2021.10.27.
 
-6.	**Satoko Namba**.  
+7.	**Satoko Namba**.  
 『Informatics in Biology, Medicine and Pharmacology 2021』,  
 Outstanding Poster Award, 2021.9.27.
 
