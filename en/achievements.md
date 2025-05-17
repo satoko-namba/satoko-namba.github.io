@@ -73,7 +73,7 @@ Outstanding Poster Award, 2023.9.7.
 
 4.	**Satoko Namba**, et al.  
 『14th Annual Meeting of the Young Researchers Association for Bioinformatics and Life Science』,  
-Best NGS awards, 2022.9.11.
+Best NGS awards, 2022.9.11.  
 [[Award Certificate]](https://satoko-namba.github.io/assets/docs/BestNGS_award.jpg)
 
 6.	**Satoko Namba**.  
