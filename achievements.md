@@ -256,7 +256,7 @@ Proceedings, アメリカ マディソン, 2022年7月12日 (2022.7.10~2022.7.14
 1. **○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
 「希少疾患の創薬標的分子を予測するAIを開発」,  
 難病・希少疾患 情報サイト RareS.(レアズ; 難病・希少疾患領域に特化した信頼性の高い医療情報サイト),  
-2025年5月15日. 
+2025年5月15日.  
 [web page](https://raresnet.com/250515-01/)
 
 2.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
