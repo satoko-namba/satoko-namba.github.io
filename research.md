@@ -6,7 +6,7 @@ permalink: /research.html
 
 <div style="margin-top: 20px;">
   <a href="./en/research.html" rel="noopener noreferrer">
-    [English version]
+    [English Version]
   </a>
 </div>
 
@@ -31,6 +31,6 @@ permalink: /research.html
 
 <div style="margin-top: 20px;">
   <a href="./en/research.html" rel="noopener noreferrer">
-    [English version]
+    [English Version]
   </a>
 </div>
