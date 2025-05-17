@@ -148,7 +148,8 @@ Lyon in France, 2023年7月24日 (2023.7.23~2023.7.27).
 Fukuoka, 2025.3.28 (2025.3.26~2025.3.29).
 
 3. **Satoko Namba**, Chen Li, Noriko Otani, and Yoshihiro Yamanishi.  
-“Prediction of therapeutic target molecules for rare diseases using gene perturbation transcriptome and semi-supervised deep learning.”  『The 130th Annual Meeting of the Japanese Association of Anatomists (JAA)・The 102nd Annual Meeting of the Physiological Society of Japan (PSJ)・The 98th Annual Meeting of the Japanese Pharmacological Society (JPS)』,  
+“Prediction of therapeutic target molecules for rare diseases using gene perturbation transcriptome and semi-supervised deep learning.”  
+『The 130th Annual Meeting of the Japanese Association of Anatomists (JAA)・The 102nd Annual Meeting of the Physiological Society of Japan (PSJ)・The 98th Annual Meeting of the Japanese Pharmacological Society (JPS)』,  
 Chiba, 2025.3.18 (2025.3.17~2025.3.19).
 
 4. **Satoko Namba**, Chen Li, Noriko Otani, and Yoshihiro Yamanishi.  
