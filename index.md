@@ -31,7 +31,7 @@ title: Research Homepage
     GWASとTWASの融合により希少疾患に対し治療標的分子を予測する論文が、Nature Communicationsに掲載されました。 
     <a href="https://doi.org/10.1038/s41467-025-58464-4" target="_blank" rel="noopener noreferrer">[論文]</a>
     <a href="https://pubmed.ncbi.nlm.nih.gov/40251160/" target="_blank" rel="noopener noreferrer">[PubMed]</a>
-    <a href="/achievements.html" target="_blank" rel="noopener noreferrer">[研究業績]</a>
+    <a href="/achievements.html" rel="noopener noreferrer">[研究業績]</a>
     </a>
   </dd>
 
