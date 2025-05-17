@@ -265,15 +265,22 @@ Proceedings, アメリカ マディソン, 2022年7月12日 (2022.7.10~2022.7.14
 日本バイオインフォマティクス学会ニュースレター第42号, 2023年1月31日.  
 [web page](https://www.jsbi.org/media/files/_u/topic/file/nl42.pdf)
 
-5.	**○難波里子**, 岩田通夫, 山西芳裕.  
+5. **○難波里子**, 岩田通夫, 山西芳裕.  
+「医薬品開発に重要な治療標的分子、ビッグデータから高精度予測する手法を開発－九工大」,  
+医療従事者の為の最新医療ニュースや様々な情報・ツールを提供する医療総合サイト QLifePro,  
+2022年7月6日.  
+[web page](https://www.qlifepro.com/news/20220706/target-repositioning.html)
+
+6.	**○難波里子**, 岩田通夫, 山西芳裕.  
 「生体分子と疾患のビッグデータから治療標的分子を高精度で予測するAIを開発」,  
 日本最大の化学ポータルサイトChem-Station スポットライトリサーチ第408回 寄稿, 2022年8月16日.  
 [web page](https://www.chem-station.com/blog/2022/08/drtr.html#google_vignette)  
 
-6.	**○難波里子**, 岩田通夫, 山西芳裕.  
+7.	**○難波里子**, 岩田通夫, 山西芳裕.  
 「生体分子と疾患のビッグデータから治療標的分子を高精度で予測するAIを開発」,  
 九州工業大学プレスリリース, 2022年7月4日.  
 [web page](https://www.kyutech.ac.jp/whats-new/press/entry-9220.html)
 
+---
 
 <a href="/en/achievements.html">[English: Research Achievements]</a>
