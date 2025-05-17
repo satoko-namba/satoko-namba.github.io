@@ -37,10 +37,11 @@ https://doi.org/10.1038/s43856-024-00571-2. (2024/7/29)
 https://doi.org/10.1016/j.jaci.2023.12.030 (4/4/2024)  
 [[Paper]](https://doi.org/10.1016/j.jaci.2023.12.030) [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/38551536/) [[Google Scholar]](https://scholar.google.co.jp/citations?user=Oo9a2h8AAAAJ&hl)
 
-7.	**○Satoko Namba**, Michio Iwata, & Yoshihiro Yamanishi.  
+5.	**○Satoko Namba**, Michio Iwata, & Yoshihiro Yamanishi.  
    From drug repositioning to target repositioning: prediction of therapeutic targets using genetically perturbed transcriptomic signatures.  
   	Bioinformatics (Oxford, England), **38**(Suppl 1), i68–i76.  
-https://doi.org/10.1093/bioinformatics/btac240. (6/27/2022)
+https://doi.org/10.1093/bioinformatics/btac240. (6/27/2022)  
+[[Paper]](https://doi.org/10.1093/bioinformatics/btac240) [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/35758779/) [[Google Scholar]](https://scholar.google.co.jp/citations?user=Oo9a2h8AAAAJ&hl)
 
 ---
 
