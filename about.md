@@ -4,7 +4,7 @@ title: 経歴
 ---
 
 <div style="margin-top: 20px;">
-  <a href="/en/about.html">[English Profile]</a>
+  <a href="/en/about.html">[English Version]</a>
 </div>
 
 <!-- 🧬 基本情報 -->
@@ -106,5 +106,5 @@ title: 経歴
 ---
 
 <div style="margin-top: 20px;">
-  <a href="/en/about.html">[English Profile]</a>
+  <a href="/en/about.html">[English Version]</a>
 </div>
