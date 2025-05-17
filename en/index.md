@@ -24,7 +24,7 @@ lang: en
 <dl style="margin: 0; font-family: 'Noto Sans JP', sans-serif;">
   
   <dt style="font-weight: bold; margin-top: 10px;">
-    <span style="background-color: #FDBEEE; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">Publication</span>
+    <span style="background-color: #DF83A8; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">Publication</span>
     <time style="margin-left: 10px; color: #666;">April 18, 2025</time>
   </dt>
   <dd style="margin: 0 0 10px 0;">
