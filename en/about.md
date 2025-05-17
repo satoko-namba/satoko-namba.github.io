@@ -5,6 +5,12 @@ lang: en
 permalink: /en/about.html
 ---
 
+<div style="margin-top: 20px;">
+  <a href="../about.html">
+    [日本語版はこちら / Japanese version]
+  </a>
+</div>
+
 <!-- 🧬 Basic Information< -->
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
