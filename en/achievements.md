@@ -17,7 +17,7 @@ permalink: /en/achievements.html
 1.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyama Otani, and Yoshihiro Yamanishi.  
 Therapeutic target prediction for orphan diseases integrating genome-wide and transcriptome-wide association studies.  
 Nat Commun., **16**, 3355.  
-https://doi.org/10.1038/s41467-025-58464-4 (2025.4.18)
+https://doi.org/10.1038/s41467-025-58464-4 (2025.4.18)  
 [[Paper]](https://doi.org/10.1038/s41467-025-58464-4) [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/40251160/) [[Google Scholar]](https://scholar.google.co.jp/citations?user=Oo9a2h8AAAAJ&hl)
 
 3.	**○Satoko Namba**, Chen Li, Noriko Otani, and Yoshihiro Yamanishi.
