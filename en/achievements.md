@@ -20,15 +20,16 @@ Nat Commun., **16**, 3355.
 https://doi.org/10.1038/s41467-025-58464-4 (2025.4.18)  
 [[Paper]](https://doi.org/10.1038/s41467-025-58464-4) [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/40251160/) [[Google Scholar]](https://scholar.google.co.jp/citations?user=Oo9a2h8AAAAJ&hl)
 
-3.	**○Satoko Namba**, Chen Li, Noriko Otani, and Yoshihiro Yamanishi.  
+2.	**○Satoko Namba**, Chen Li, Noriko Otani, and Yoshihiro Yamanishi.  
    SSL-VQ: Vector-quantized variational autoencoders for semi-supervised prediction of therapeutic targets across diverse diseases.   Bioinformatics, **41**(2), btaf039,  
 https://doi.org/10.1093/bioinformatics/btaf039 (2025.1.28)  
 [[Paper]](https://doi.org/10.1093/bioinformatics/btaf039) [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/39880378/) [[Google Scholar]](https://scholar.google.co.jp/citations?user=Oo9a2h8AAAAJ&hl)
 
-5.	Midori Iida, ..., **○Satoko Namba**, et al.
-   A network-based trans-omics approach for predicting synergistic drug combinations.
+3.	Midori Iida, ..., **○Satoko Namba**, et al.  
+   A network-based trans-omics approach for predicting synergistic drug combinations.  
   	Communications medicine, **4**, 154.  
-https://doi.org/10.1038/s43856-024-00571-2. (2024/7/29) 
+https://doi.org/10.1038/s43856-024-00571-2. (2024/7/29)  
+[[Paper]](https://doi.org/10.1038/s43856-024-00571-2) [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/39075184/) [[Google Scholar]](https://scholar.google.co.jp/citations?user=Oo9a2h8AAAAJ&hl)
 
 6.	Hanako Yoshimura, ..., **○Satoko Namba**, et al.
    Galectin-10 in serum extracellular vesicles reflects asthma pathophysiology.
