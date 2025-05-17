@@ -41,18 +41,33 @@ https://doi.org/10.1093/bioinformatics/btac240 (6/27/2022)
 
 ### 📕**学術雑誌又は商業誌**
 
-1.	**○難波里子**.  
-「Conference & Workshop AIが解き明かす生命科学の未来：1st Asia & Paciﬁc Bioinformatics Joint Conference」、  
- 実験医学2025年4月号Vol.43 No.6  
-『特集1：多細胞の合成生物学　発生・分化機構を知って、創って、利用する／特集2：まずはCondaではじめよう　仮想環境で試せるバイオインフォマティクス』  
-（戸田聡，新海典夫／編 羊土社、2025年3月19日、957-960）.  
-ISBN 978-4-7581-2590-1
+<!-- 実験医学2025 -->
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
-2.	**○難波里子**, 岩田通夫, 山西芳裕.  
-   「遺伝子摂動応答オミクスデータを用いた治療標的予測―疾患横断解析によるターゲットリポジショニング」、  
-  	実験医学増刊Vol.41 No.7『ポストGWAS時代の遺伝統計学 オミクス解析と機械学習でヒト疾患を俯瞰する』  
-  	（岡田随象編 羊土社、2023年4月20日、181-187）.  
-ISBN 978-4-7581-0410-4
+  <!-- 左側：基本情報 -->
+  <div style="flex: 1; min-width: 250px;">
+   <ol start="1">
+     <li>
+       <span style="display: block;">
+         <strong>○難波里子.</strong>
+       </span>
+       <span style="display: block; padding-left: 1em;">
+         「Conference & Workshop AIが解き明かす生命科学の未来：1st Asia & Paciﬁc Bioinformatics Joint Conference」、<br>
+          実験医学2025年4月号Vol.43 No.6<br>
+         『特集1：多細胞の合成生物学　発生・分化機構を知って、創って、利用する／特集2：まずはCondaではじめよう　仮想環境で試せるバイオインフォマティクス』<br>
+         （戸田聡，新海典夫／編 羊土社、2025年3月19日、957-960）.<br>
+         ISBN 978-4-7581-2590-1<br>
+       </span>
+     </li>
+   </ol>
+  </div>
+
+  <!-- 右側：顔写真 -->
+  <div style="flex-shrink: 0;">
+    <img src="/assets/books/実験医学2025.jpg" alt="実験医学2025" style="width: 120px; border: 1px solid #ccc; height: auto;">
+  </div>
+</div>
+
 
 <!-- 実験医学2023 -->
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
