@@ -275,16 +275,23 @@ research_er.com, April 21, 2024.
 Japanese Society for Bioinformatics (JSBI) Newsletter No. 42, January 31, 2023.  
 [web page](https://www.jsbi.org/media/files/_u/topic/file/nl42.pdf)
 
-5.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
+5.	**Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
+“High-Precision Prediction of Key Therapeutic Targets for Drug Development Using Big Data — Developed by Kyushu Institute of Technology”,  
+QLifePro—A trusted medical news platform targeted at healthcare professionals,  
+2022.7.9.  
+[web page](https://www.qlifepro.com/news/20220706/target-repositioning.html)
+
+6.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
 “AI accurately predicts therapeutic targets from big data of biomolecules and diseases”  
 Chem-Station Spotlight Research No. 408, Japan’s largest chemistry portal site, August 16, 2022.  
 [web page](https://www.chem-station.com/blog/2022/08/drtr.html#google_vignette)  
 
-6.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
+7.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
 “AI accurately predicts therapeutic targets from big data of biomolecules and diseases”  
 Kyushu Institute of Technology Press Release, July 4, 2022.   
 [web page](https://www.kyutech.ac.jp/whats-new/press/entry-9220.html)
 
+---
 
 <div style="margin-top: 20px;">
   <a href="../achievements.html">
