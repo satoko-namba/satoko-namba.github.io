@@ -4,7 +4,7 @@ title: 研究業績
 permalink: /achievements.html
 ---
 
-<a href="/en/achievements.html">[English: Research Achievements]</a>
+<a href="/en/achievements.html">[English Version]</a>
 
 ### 📚**学術論文**
 
@@ -291,4 +291,4 @@ Proceedings, アメリカ マディソン, 2022年7月12日 (2022.7.10~2022.7.14
 
 ---
 
-<a href="/en/achievements.html">[English: Research Achievements]</a>
+<a href="/en/achievements.html">[English Version]</a>
