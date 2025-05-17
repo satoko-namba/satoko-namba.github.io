@@ -97,7 +97,7 @@ title: Research Homepage
   <p>📚業績リストはこちら：</p>
   <ul style="margin: 0; padding-left: 1.2em; line-height: 1.6;">
     <li>
-      <a href="https://satoko-namba.github.io/achievements.html" target="_blank" rel="noopener noreferrer">
+      <a href="https://satoko-namba.github.io/achievements.html" rel="noopener noreferrer">
         My Research Homepage
       </a>
     </li>
