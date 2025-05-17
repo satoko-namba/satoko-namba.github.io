@@ -31,7 +31,7 @@ lang: en
     A paper integrating GWAS and TWAS to predict therapeutic targets for rare diseases was published in <i>Nature Communications</i>. 
     <a href="https://doi.org/10.1038/s41467-025-58464-4" target="_blank" rel="noopener noreferrer">[Publication]</a>
     <a href="https://pubmed.ncbi.nlm.nih.gov/40251160/" target="_blank" rel="noopener noreferrer">[PubMed]</a>
-    <a href="/en/achievements.html" rel="noopener noreferrer">[Research Achievements]</a>
+    <a href="https://satoko-namba.github.io/en/achievements.html" rel="noopener noreferrer">[Research Achievements]</a>
   </dd>
 
   <dt>
