@@ -254,27 +254,33 @@ Fukuoka, 10/24, 2018.
 
 ### 📰**Media Coverage**
 
-1.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
+1. **Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
+“AI Developed to Predict Therapeutic Targets for Rare Diseases”,  
+Featured in RareS. — Japan’s leading platform for information on rare and intractable diseases,  
+2025.5.15.  
+[web page](https://raresnet.com/250515-01/)
+
+2.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
 “Development of AI to predict therapeutic target molecules for rare diseases — integrating genome and transcriptome data for novel therapies”,  
 Nagoya University Research News Press Release, April 21, 2024.  
 [web page](https://www.nagoya-u.ac.jp/researchinfo/result/2025/04/ai-103.html)
 
-2.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
+3.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
 “Development of AI to predict therapeutic target molecules for rare diseases — integrating genome and transcriptome data for novel therapies”,  
 research_er.com, April 21, 2024.  
 [web page](https://research-er.jp/articles/view/143717)
 
-3.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.   
+4.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.   
 “Conference Report: ISMB2022”,  
 Japanese Society for Bioinformatics (JSBI) Newsletter No. 42, January 31, 2023.  
 [web page](https://www.jsbi.org/media/files/_u/topic/file/nl42.pdf)
 
-4.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
+5.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
 “AI accurately predicts therapeutic targets from big data of biomolecules and diseases”  
 Chem-Station Spotlight Research No. 408, Japan’s largest chemistry portal site, August 16, 2022.  
 [web page](https://www.chem-station.com/blog/2022/08/drtr.html#google_vignette)  
 
-5.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
+6.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
 “AI accurately predicts therapeutic targets from big data of biomolecules and diseases”  
 Kyushu Institute of Technology Press Release, July 4, 2022.   
 [web page](https://www.kyutech.ac.jp/whats-new/press/entry-9220.html)
