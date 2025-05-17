@@ -3,6 +3,7 @@ layout: page
 title: 研究業績
 permalink: /achievements.html
 ---
+<h1 class="post-title" style="color: #20519A;">研究業績</h1>
 
 <a href="/en/achievements.html">[English Version]</a>
 
