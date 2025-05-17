@@ -53,6 +53,16 @@ lang: en
     </a>
   </dd>
 
+  <dt>
+    <span style="background-color: #999; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">Conference</span>
+    <time style="margin-left: 10px; color: #666;">2025.3.17 ~ 2025.3.19</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;">
+    <a href="#" style="text-decoration: none; color: #333;">
+      Participated in the the 98th Annual Meeting of the Japanese Pharmacological Society (JPS).
+    </a>
+  </dd>
+
 </dl>
 </div>
 <br><br>
