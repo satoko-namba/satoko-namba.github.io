@@ -88,7 +88,7 @@ Excellent Presentation Awards,
 5.	**Satoko Namba**.  
 『Informatics in Biology, Medicine and Pharmacology 2021』,  
 Outstanding Poster Award,  
-2021.9.27.
+2021.9.27.  
 [[Award Certificate]](https://satoko-namba.github.io/assets/docs/IIBMP2021_award.jpg)
 
 ---
