@@ -11,7 +11,7 @@ title: 経歴
 
   <!-- 左側：基本情報 -->
   <div style="flex: 1; min-width: 250px;">
-    <h2 style="margin-top: 0; font-weight: bold;">🧬 基本情報</h2>
+    <h3 style="margin-top: 0; font-weight: bold;">🧬 基本情報</h3>
     <ul style="list-style: none; padding-left: 0; font-size: 1rem;">
       <li><strong>氏名：</strong>難波 里子（Satoko Namba）</li>
       <li><strong>出身：</strong>島根県大田市</li>
@@ -30,26 +30,26 @@ title: 経歴
 
 
 
-## 🎓 **学歴**  
+### 🎓 **学歴**  
 - 2024年3月 博士（情報工学）九州工業大学　大学院情報工学府　情報創成工学専攻　早期修了  
 - 2022年3月  修士（情報工学）九州工業大学　大学院情報工学府　学際情報工学専攻  
 - 2020年3月 学士（生命医科学） 九州大学  
 
-## 🧪 **職歴・研究歴**  
+### 🧪 **職歴・研究歴**  
 - 2025年3月〜現在      JSPS PD（特別研究員）@名古屋大学  
 - 2024年4月〜2025年3月 JSPS PD（DC1から資格変更）@名古屋大学  
 - 2022年4月〜2024年3月 JSPS DC1（博士課程）@九州工業大学  
 
-## 🌍**所属学会**
-#### 国際学会
+### 🌍**所属学会**
+##### 国際学会
 - International Society for Computational Biology (ISCB)
 
-#### 国内学会
+##### 国内学会
 - 日本バイオインフォマティクス学会（JSBI）
 - 日本薬学会
 - 日本薬理学会
 
-## 💻 **スキル・使用ツール**  
+### 💻 **スキル・使用ツール**  
 - Python / R / Git
 - オミクス解析（bulk / single cell）
 - 機械学習 / AI
@@ -59,7 +59,7 @@ title: 経歴
 
   <!-- 左側：文章 -->
   <div style="flex: 1; min-width: 250px;">
-    <h2 style="margin-top: 0; font-weight: bold;">🎴 ファビコン「難」に込めた想い</h2>
+    <h3 style="margin-top: 0; font-weight: bold;">🎴 ファビコン「難」に込めた想い</h3>
     <p>このホームページのファビコンには、漢字の「難」を使用しています。  
     これは私の名字「難波」の一文字であると同時に、私の研究テーマである「難治性疾患」にも通じています。  
     「難」という文字には、<strong>困難な課題に挑み、複雑な問題を解き明かしていく姿勢</strong>を込めており、  
@@ -73,13 +73,13 @@ title: 経歴
 
 </div>
 
-## 🙇**謝辞**
+### 🙇**謝辞**
 研究の遂行にあたり、異分野から来たにも関わらず快く受け入れてくださり、ゼロからBioinformaticsの研究者として育ててくださった名古屋大学の**山西芳裕教授**に深謝致します。  
 また、いつも丁寧に手厚くご指導くださった、九州工業大学の**岩田通夫准教授**に、お礼申し上げます。  
 さらに、研究にご助力頂いた共著者の皆様、研究室の皆様、学位の取得においてご指導いただいた先生方に感謝申し上げます。
 
 
-## 🔗 **関連リンク**  
+### 🔗 **関連リンク**  
 - [Researchmap](https://researchmap.jp/namba_satoko)  
 - [Google Scholar](https://scholar.google.com/citations?hl=ja&user=Oo9a2h8AAAAJ)
 - [ORCID](https://orcid.org/0000-0003-1873-8639)
