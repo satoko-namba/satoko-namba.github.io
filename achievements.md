@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fdbc671d-1a52-41ef-bc79-d2987df12918)---
+---
 layout: page
 title: 研究業績
 permalink: /achievements.html
