@@ -146,7 +146,7 @@ Proceedings, アメリカ マディソン, 2022年7月12日 (2022.7.10~2022.7.14
 “A trans-disease approach for omics-based prediction of therapeutic target proteins”.  
 『The 32nd International Conference on Intelligent Systems for Molecular Biology (ISMB2024)』,  
 カナダ モントリオール, 2024年7月15日 (2024.7.12~2024.7.16).  
-[[🔴YouTube]](https://www.youtube.com/watch?v=PgP2kvVNPE0)
+[[📺YouTube]](https://www.youtube.com/watch?v=PgP2kvVNPE0)
 
 5.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
 “Target repositioning to predict therapeutic target proteins using genetically perturbed transcriptome data”.  
