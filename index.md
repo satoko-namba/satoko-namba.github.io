@@ -44,7 +44,7 @@ title: Research Homepage
   <dd style="margin: 0 0 10px 0;">
     <a href="#" style="text-decoration: none; color: #333;">
       第98回 日本薬理学会にてYoung Investigator Awardを受賞しました。 
-    <a href="https://doi.org/10.1038/s41467-025-58464-4" target="_blank" rel="noopener noreferrer">[賞状]</a>
+    <a href="/assets/docs/appw2025_award_certificate.pdf" target="_blank" rel="noopener noreferrer">[賞状]</a>
     </a>
   </dd>
 
