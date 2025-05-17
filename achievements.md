@@ -59,18 +59,25 @@ ISBN 978-4-7581-0410-4
 
   <!-- 左側：基本情報 -->
   <div style="flex: 1; min-width: 250px;">
-   1. <strong>○難波里子</strong>, 岩田通夫, 山西芳裕.<br>
-     「遺伝子摂動応答オミクスデータを用いた治療標的予測―疾患横断解析によるターゲットリポジショニング」、<br>
-  	  実験医学増刊Vol.41 No.7『ポストGWAS時代の遺伝統計学 オミクス解析と機械学習でヒト疾患を俯瞰する』<br>  
-  	  （岡田随象編 羊土社、2023年4月20日、181-187）.<br>
-     ISBN 978-4-7581-0410-4
+   <ol>
+     <li>
+       <span style="display: block;">
+         1. <strong>○難波里子</strong>, 岩田通夫, 山西芳裕.
+       </span>
+       <span style="display: block; padding-left: 1em;">
+         「遺伝子摂動応答オミクスデータを用いた治療標的予測―疾患横断解析によるターゲットリポジショニング」、
+         実験医学増刊Vol.41 No.7『ポストGWAS時代の遺伝統計学 オミクス解析と機械学習でヒト疾患を俯瞰する』
+         （岡田随象編 羊土社、2023年4月20日、181-187）.
+         ISBN 978-4-7581-0410-4
+       </span>
+     </li>
+   </ol>
   </div>
 
   <!-- 右側：顔写真 -->
   <div style="flex-shrink: 0;">
     <img src="/assets/books/実験医学2023.jpg" alt="実験医学2023" style="width: 120px; border: 1px solid #ccc; height: auto;">
   </div>
-
 </div>
 
 ---
