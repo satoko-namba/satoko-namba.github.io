@@ -7,6 +7,7 @@ title: 経歴
   <a href="/en/about.html">[English Profile]</a>
 </div>
 
+<!-- 🧬 基本情報 -->
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <!-- 左側：基本情報 -->
@@ -28,17 +29,23 @@ title: 経歴
 
 </div>
 
-
+---
 
 ### 🎓 **学歴**  
 - 2024年3月 博士（情報工学）九州工業大学　大学院情報工学府　情報創成工学専攻　早期修了  
 - 2022年3月  修士（情報工学）九州工業大学　大学院情報工学府　学際情報工学専攻  
 - 2020年3月 学士（生命医科学） 九州大学  
+<br>
+
+---
 
 ### 🧪 **職歴・研究歴**  
 - 2025年3月〜現在      JSPS PD（特別研究員）@名古屋大学  
 - 2024年4月〜2025年3月 JSPS PD（DC1から資格変更）@名古屋大学  
 - 2022年4月〜2024年3月 JSPS DC1（博士課程）@九州工業大学  
+<br>
+
+---
 
 ### 🌍**所属学会**
 ##### 国際学会
@@ -48,13 +55,19 @@ title: 経歴
 - 日本バイオインフォマティクス学会（JSBI）
 - 日本薬学会
 - 日本薬理学会
+<br>
+
+---
 
 ### 💻 **スキル・使用ツール**  
 - Python / R / Git
 - オミクス解析（bulk / single cell）
 - 機械学習 / AI
+<br>
 
+---
 
+<!-- 🎴 ファビコン「難」に込めた想い -->
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <!-- 左側：文章 -->
@@ -73,19 +86,24 @@ title: 経歴
 
 </div>
 
+---
+
 ### 🙇**謝辞**
 研究の遂行にあたり、異分野から来たにも関わらず快く受け入れてくださり、ゼロからBioinformaticsの研究者として育ててくださった名古屋大学の**山西芳裕教授**に深謝致します。  
 また、いつも丁寧に手厚くご指導くださった、九州工業大学の**岩田通夫准教授**に、お礼申し上げます。  
 さらに、研究にご助力頂いた共著者の皆様、研究室の皆様、学位の取得においてご指導いただいた先生方に感謝申し上げます。
+<br>
 
+---
 
 ### 🔗 **関連リンク**  
 - [Researchmap](https://researchmap.jp/namba_satoko)  
 - [Google Scholar](https://scholar.google.com/citations?hl=ja&user=Oo9a2h8AAAAJ)
 - [ORCID](https://orcid.org/0000-0003-1873-8639)
 - [ResearchGate](https://www.researchgate.net/profile/Satoko-Namba-2)
+<br>
 
-
+---
 
 <div style="margin-top: 20px;">
   <a href="/en/about.html">[English Profile]</a>
