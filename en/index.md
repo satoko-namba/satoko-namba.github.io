@@ -84,7 +84,9 @@ lang: en
 
 </dl>
 </div>
+<br><br>
 
+🌸 **With deep gratitude to all the mentors and collaborators who have supported my journey from medicine to bioinformatics.** 🌸
 
 
 <hr style="margin: 30px 0;" />
