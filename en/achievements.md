@@ -64,7 +64,7 @@ Vol. 41, No. 7, pp. 181–187, Yodosha, April 2023. ISBN 978-4-7581-0410-4. (in 
 1. **Satoko Namba**.  
 『The 130th Annual Meeting of the Japanese Association of Anatomists (JAA)・The 102nd Annual Meeting of the Physiological Society of Japan (PSJ)・The 98th Annual Meeting of the Japanese Pharmacological Society (JPS)』,  
 Young Investigator Award, 2025.3.18.  
-[[Award Certificate]](https://satoko-namba.github.io/assets/docs/appw2025_award_certificate.pdf)
+[[Award Certificate]](https://satoko-namba.github.io/assets/docs/appw2025_award.jpg)
 
 2.	**Satoko Namba**.  
 『Informatics in Biology, Medicine and Pharmacology 2023』,  
