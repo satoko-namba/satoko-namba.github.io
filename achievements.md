@@ -61,25 +61,32 @@ ISBN 978-4-7581-0410-4
 1.	**○難波里子**、李晨、大谷則子、山西芳裕.  
 「遺伝子摂動応答トランスクリプトームを用いた半教師あり深層学習による治療標的分子の予測と希少疾患への応用,  
 『第130回 日本解剖学会／第102回 日本生理学会／第98回 日本薬理学会合同大会』,   
-Young Investigator Award, 千葉, 2025年3月18日（2025.3.17~2025.3.19）, （受賞率24/72=33.3%）.  
+Young Investigator Award,  
+千葉, 2025年3月18日（2025.3.17~2025.3.19）, （受賞率24/72=33.3%）.  
 [[賞状]](https://satoko-namba.github.io/assets/docs/appw2025_award.jpg)
 
-2.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Otani, and Yoshihiro Yamanishi.  
+3.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Otani, and Yoshihiro Yamanishi.  
 “Therapeutic target prediction for rare diseases integrating GWAS and TWAS data”.  
-『第12回生命医薬情報学連合大会』優秀ポスター賞　受賞, 千葉, 2023年9月7日 （受賞率8/144=5.5%）.  
+『第12回生命医薬情報学連合大会』  
+優秀ポスター賞　受賞,  
+千葉, 2023年9月7日 （受賞率8/144=5.5%）.  
 [[賞状]](https://satoko-namba.github.io/assets/docs/IIBMP2023_award.jpg)
 
-4.	**○難波里子**, 小川友希, 横山源太郎, 濱谷和, 下河舞子, 武田淳志.  
-“スペースゲノム 解析とその活用についての諸考察”. 『生命情報科学若手の会の第14回研究会』,  
-Best NGS awards 受賞, オンライン, 2022年9月10-11日.  
+5.	**○難波里子**, 小川友希, 横山源太郎, 濱谷和, 下河舞子, 武田淳志.  
+“スペースゲノム 解析とその活用についての諸考察”.  
+『生命情報科学若手の会の第14回研究会』,  
+Best NGS awards 受賞,  
+オンライン, 2022年9月10-11日.  
 [[賞状]](https://satoko-namba.github.io/assets/docs/BestNGS_award.jpg)
 
-6.	**○Satoko Namba**, Michio Iwata and Yoshihiro Yamanishi.  
-“From drug repositioning to target repositioning: omics-based prediction of therapeutic targets for a variety of diseases”.  
-『CBI学会2021年大会』, 口頭発表賞 受賞 (Excellent Presentation Awards), オンライン, 
-2021年10月27日 （受賞率4/34=11.7%）.  
-
 7.	**○Satoko Namba**, Michio Iwata and Yoshihiro Yamanishi.  
+“From drug repositioning to target repositioning: omics-based prediction of therapeutic targets for a variety of diseases”.  
+『CBI学会2021年大会』,  
+口頭発表賞 受賞 (Excellent Presentation Awards),  
+オンライン, 2021年10月27日 （受賞率4/34=11.7%）.  
+[[賞状]](https://satoko-namba.github.io/assets/docs/CBI2021_award.jpg)
+
+9.	**○Satoko Namba**, Michio Iwata and Yoshihiro Yamanishi.  
 「ターゲットリポジショニング：遺伝子摂動応答トランスクリプトームを用いた創薬標的予測」,  
 『第10回生命医薬情報学連合大会』, 優秀ポスター賞 受賞, オンライン,  
 2021年9月27日 (2021.9.27〜2021.9.29) (受賞率9/86=10.4%).
