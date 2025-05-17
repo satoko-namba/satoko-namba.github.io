@@ -9,7 +9,7 @@ permalink: /en/about.html
 
   <!-- Left: Basic Info -->
   <div style="flex: 1; min-width: 250px;">
-    <h2 style="margin-top: 0; font-weight: bold;">🧬 Basic Information</h2>
+    <h3 style="margin-top: 0; font-weight: bold;">🧬 Basic Information</h3>
     <ul style="list-style: none; padding-left: 0; font-size: 1rem;">
       <li><strong>Name:</strong> Satoko Namba</li>
       <li><strong>From:</strong> Ohda City, Shimane Prefecture, Japan</li>
@@ -25,28 +25,28 @@ permalink: /en/about.html
   </div>
 </div>
 
-## 🎓 Education
+### 🎓 Education
 - Mar. 2024 Ph.D. (Computer Science), Kyushu Institute of Technology  
   (**early completion in 2 years**; standard duration: 3 years)  
 - Mar. 2022 M.S. (Computer Science), Kyushu Institute of Technology  
 - Mar. 2020 B.S. (Biomedical Sciences), Kyushu University  
 
-## 🧪 Research & Work Experience
+### 🧪 Research & Work Experience
 - Mar. 2025 – present JSPS PD Fellow @ Nagoya University  
 - Apr. 2024 – Mar. 2025 JSPS PD (transitioned from DC1) @ Nagoya University  
 - Apr. 2022 – Mar. 2024 JSPS DC1 Fellow @ Kyushu Institute of Technology  
 
-## 🌍 Academic Societies
+### 🌍 Academic Societies
 
-### International
+#### International
 - International Society for Computational Biology (ISCB)
 
-### Domestic (Japan)
+#### Domestic (Japan)
 - Japanese Society for Bioinformatics (JSBI)  
 - The Pharmaceutical Society of Japan  
 - The Japanese Pharmacological Society  
 
-## 💻 Skills & Tools
+### 💻 Skills & Tools
 - Python / R / Git  
 - Omics data analysis (bulk & single-cell)  
 - Machine Learning / Artificial Intelligence  
@@ -56,7 +56,7 @@ permalink: /en/about.html
 
   <!-- 左側：文章 -->
   <div style="flex: 1; min-width: 250px;">
-    <h2 style="margin-top: 0; font-weight: bold;">🎴 About the Favicon</h2>
+    <h3 style="margin-top: 0; font-weight: bold;">🎴 About the Favicon</h3>
     <p>The favicon of this website uses the single kanji character <strong>"難" (Nan)</strong>, which carries multiple meanings.
     It represents both my family name <strong>"Namba"</strong> and my research focus on <strong>intractable diseases</strong> (called "難治性疾患" in Japanese).
     The character conveys a sense of <strong>challenge, complexity, and the pursuit of breakthroughs</strong>—concepts that reflect my commitment to advancing AI-based therapeutic discovery.  
@@ -71,13 +71,13 @@ permalink: /en/about.html
 </div>
 
 
-## 🙇**Acknowledgements**
+### 🙇**Acknowledgements**
 I would like to express my heartfelt gratitude to **Professor Yoshihiro Yamanishi** at Nagoya University, who kindly welcomed me into his laboratory despite my background in a different field, and guided me from the ground up to become a bioinformatics researcher.  
 I am also deeply thankful to **Associate Professor Michio Iwata** at Kyushu Institute of Technology, whose generous and thoughtful mentorship has always supported me.  
 I sincerely appreciate the contributions of my co-authors, lab members, and the many professors who provided valuable guidance during my doctoral studies.
 
 
-## 🔗 Links
+### 🔗 Links
 - [Researchmap (EN)](https://researchmap.jp/namba_satoko?lang=en)  
 - [Google Scholar](https://scholar.google.com/citations?hl=ja&user=Oo9a2h8AAAAJ)  
 - [ORCID](https://orcid.org/0000-0003-1873-8639)
