@@ -148,8 +148,6 @@ Best NGS awards 受賞,
 特別研究奨励金, 科研費番号 25KJ0159, 2025.4~2028.3  
  (採択率 23.9%, ※特別研究員-DCに申請し、採用時までに博士の学位を取得して特別研究員-PDに資格変更した者を含む).
 
-3.	**○Satoko Namba**,  
-ISMB2022 Travel Fellowship, $1,000 （採択率 47/155）
 
 <!-- ISMB2022 Travel Fellowship -->
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
@@ -163,7 +161,7 @@ ISMB2022 Travel Fellowship, $1,000 （採択率 47/155）
        </span>
        <span style="display: block; padding-left: 1em;">
          ISMB2022 Travel Fellowship, $1,000 （採択率 47/155）<br>
-         Group photo with Travel Fellowship recipients at ISMB 2022 >▶<br>
+         Group photo with Travel Fellowship recipients at ISMB 2022 ➡️<br>
        </span>
      </li>
    </ol>
@@ -171,7 +169,7 @@ ISMB2022 Travel Fellowship, $1,000 （採択率 47/155）
 
   <!-- 右側：顔写真 -->
   <div style="flex-shrink: 0;">
-    <img src="/assets/gallery/TravelFellowship2022.jpg" alt="TravelFellowship2022" style="width: 120px; border: 1px solid #ccc; height: auto;">
+    <img src="/assets/gallery/TravelFellowship2022.jpg" alt="TravelFellowship2022" style="width: 180px; border: 1px solid #ccc; height: auto;">
   </div>
 </div>
 
