@@ -154,7 +154,8 @@ ISMB2022 Travel Fellowship, $1,000
 
 3.	**Satoko Namba**,  
 Grant-in-Aid for JSPS Fellows, 22KJ2494 (2022.4~2025.3)  
-(Acceptance rate: 18.5%).
+(Acceptance rate: 18.5%).  
+[[KAKENHI]](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22KJ2494/)
 
 
 ---
