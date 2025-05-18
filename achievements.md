@@ -161,7 +161,9 @@ Best NGS awards 受賞,
        </span>
        <span style="display: block; padding-left: 1em;">
          ISMB2022 Travel Fellowship, $1,000 （採択率 47/155）<br>
-         Group photo with Travel Fellowship recipients at ISMB 2022 ➡️<br>
+          <p style="color: #20519A;">
+             Group photo with Travel Fellowship recipients at ISMB 2022 ➡️
+          </p>
        </span>
      </li>
    </ol>
@@ -174,7 +176,7 @@ Best NGS awards 受賞,
 </div>
 
 
-5.	**難波里子**,  
+3.	**難波里子**,  
 日本学術振興会 特別研究員 (DC1),  
 「治療効果を高める薬剤組み合わせを予測する情報技術の開発」,  
 特別研究奨励金, 科研費番号 22KJ2494, 2022.4~2025.3, （採択率 18.5%）.  
