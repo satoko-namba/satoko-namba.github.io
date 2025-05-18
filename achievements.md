@@ -84,6 +84,7 @@ https://doi.org/10.1093/bioinformatics/btac240 (6/27/2022)
          実験医学増刊Vol.41 No.7『ポストGWAS時代の遺伝統計学 オミクス解析と機械学習でヒト疾患を俯瞰する』<br>
          （岡田随象編 羊土社、2023年4月20日、181-187）.<br>
          ISBN 978-4-7581-0410-4<br>
+         <a href="https://www.yodosha.co.jp/yodobook/book/9784758104104/" target="_blank" rel="noopener">▶ 羊土社で見る</a><br>
          <a href="https://www.amazon.co.jp/%E5%AE%9F%E9%A8%93%E5%8C%BB%E5%AD%A6%E5%A2%97%E5%88%8A-Vol-41-No-7-%E3%83%9D%E3%82%B9%E3%83%88GWAS%E6%99%82%E4%BB%A3%E3%81%AE%E9%81%BA%E4%BC%9D%E7%B5%B1%E8%A8%88%E5%AD%A6%E3%80%9C%E3%82%AA%E3%83%9F%E3%82%AF%E3%82%B9%E8%A7%A3%E6%9E%90%E3%81%A8%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%A7%E3%83%92%E3%83%88%E7%96%BE%E6%82%A3%E3%82%92%E4%BF%AF%E7%9E%B0%E3%81%99%E3%82%8B-%E5%B2%A1%E7%94%B0/dp/4758104107" target="_blank" rel="noopener">▶ Amazonで見る</a><br>
        </span>
      </li>
