@@ -57,7 +57,7 @@ https://doi.org/10.1093/bioinformatics/btac240 (6/27/2022)
          『特集1：多細胞の合成生物学　発生・分化機構を知って、創って、利用する／特集2：まずはCondaではじめよう　仮想環境で試せるバイオインフォマティクス』<br>
          （戸田聡，新海典夫／編 羊土社、2025年3月19日、957-960）.<br>
          ISBN 978-4-7581-2590-1<br>
-         <a href="https://www.yodosha.co.jp/yodobook/book/9784758125901/" target="_blank" rel="noopener">▶ 羊土社で見る</a><
+         <a href="https://www.yodosha.co.jp/yodobook/book/9784758125901/" target="_blank" rel="noopener">▶ 羊土社で見る</a>
           <a href="https://www.amazon.co.jp/%E5%AE%9F%E9%A8%93%E5%8C%BB%E5%AD%A6-2025%E5%B9%B44%E6%9C%88%E5%8F%B7-Vol-43-%E7%99%BA%E7%94%9F%E3%83%BB%E5%88%86%E5%8C%96%E6%A9%9F%E6%A7%8B%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%80%81%E5%89%B5%E3%81%A3%E3%81%A6%E3%80%81%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%EF%BC%8F%E7%89%B9%E9%9B%862-%E4%BB%AE%E6%83%B3%E7%92%B0%E5%A2%83%E3%81%A7%E8%A9%A6%E3%81%9B%E3%82%8B%E3%83%90%E3%82%A4%E3%82%AA%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9-ebook/dp/B0F2859DCF" target="_blank" rel="noopener">▶ Amazonで見る</a><br>
        </span>
      </li>
