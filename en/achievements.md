@@ -148,9 +148,33 @@ Outstanding Poster Award,
 Grant-in-Aid for JSPS Fellows, 25KJ0159 (2025.4~2028.3)  
 (Acceptance rate: 23.9%).
 
-2.	**○Satoko Namba**,  
-ISMB2022 Travel Fellowship, $1,000  
-(Acceptance rate: 47/155)
+
+<!-- ISMB2022 Travel Fellowship -->
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+  <!-- 左側：基本情報 -->
+  <div style="flex: 1; min-width: 250px;">
+   <ol start="2">
+     <li>
+       <span style="display: block;">
+         <strong>○Satoko Namba</strong>
+       </span>
+       <span style="display: block; padding-left: 1em;">
+         ISMB2022 Travel Fellowship, $1,000<br>
+         （Acceptance rate: 47/155<br>
+          <p style="color: #20519A;">
+             Group photo with Travel Fellowship recipients at ISMB 2022 ➡️
+          </p>
+       </span>
+     </li>
+   </ol>
+  </div>
+
+  <!-- 右側：顔写真 -->
+  <div style="flex-shrink: 0;">
+    <img src="/assets/gallery/TravelFellowship2022.jpg" alt="TravelFellowship2022" style="width: 180px; border: 1px solid #ccc; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
+  </div>
+</div>
 
 3.	**Satoko Namba**,  
 Grant-in-Aid for JSPS Fellows, 22KJ2494 (2022.4~2025.3)  
