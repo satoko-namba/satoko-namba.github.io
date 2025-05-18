@@ -149,9 +149,34 @@ Best NGS awards 受賞,
  (採択率 23.9%, ※特別研究員-DCに申請し、採用時までに博士の学位を取得して特別研究員-PDに資格変更した者を含む).
 
 3.	**○Satoko Namba**,  
-ISMB2022 Travel Fellowship, $1,000 （採択率 47/155）  
+ISMB2022 Travel Fellowship, $1,000 （採択率 47/155）
 
-4.	**難波里子**,  
+<!-- ISMB2022 Travel Fellowship -->
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+  <!-- 左側：基本情報 -->
+  <div style="flex: 1; min-width: 250px;">
+   <ol start="2">
+     <li>
+       <span style="display: block;">
+         <strong>○難波里子</strong>
+       </span>
+       <span style="display: block; padding-left: 1em;">
+         ISMB2022 Travel Fellowship, $1,000 （採択率 47/155）<br>
+         Group photo with Travel Fellowship recipients at ISMB 2022 >▶<br>
+       </span>
+     </li>
+   </ol>
+  </div>
+
+  <!-- 右側：顔写真 -->
+  <div style="flex-shrink: 0;">
+    <img src="/assets/gallery/TravelFellowship2022.jpg" alt="TravelFellowship2022" style="width: 120px; border: 1px solid #ccc; height: auto;">
+  </div>
+</div>
+
+
+5.	**難波里子**,  
 日本学術振興会 特別研究員 (DC1),  
 「治療効果を高める薬剤組み合わせを予測する情報技術の開発」,  
 特別研究奨励金, 科研費番号 22KJ2494, 2022.4~2025.3, （採択率 18.5%）.  
