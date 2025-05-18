@@ -169,7 +169,7 @@ Best NGS awards 受賞,
 
   <!-- 右側：顔写真 -->
   <div style="flex-shrink: 0;">
-    <img src="/assets/gallery/TravelFellowship2022.jpg" alt="TravelFellowship2022" style="width: 180px; border: 1px solid #ccc; height: auto;">
+    <img src="/assets/gallery/TravelFellowship2022.jpg" alt="TravelFellowship2022" style="width: 180px; border: 1px solid #ccc; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
   </div>
 </div>
 
