@@ -47,15 +47,6 @@ https://doi.org/10.1093/bioinformatics/btac240. (6/27/2022)
 
 ### 📕**Review Articles / Professional Magazines**
 
-1.	**Satoko Namba**. 
-“Conference & Workshop: The Future of Life Science Unveiled by AI—1st Asia & Paciﬁc Bioinformatics Joint Conference”,  
-Experimental Medicine (Special Issue: “Synthetic Biology of Multicellular Systems / Getting Started with Bioinformatics via Conda”),   Vol.43, No.6, pp. 957–960. Yodosha, March 2025. ISBN 978-4-7581-2590-1. (in Japanese)
-
-2. **Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
-“Therapeutic Target Prediction Using Genetic Perturbation-Response Omics Data: Cross-Disease Target Repositioning.”  
-Experimental Medicine (Supplement: “Statistical Genetics in the Post-GWAS Era: A Systems View of Human Disease via Omics and Machine Learning”),  
-Vol. 41, No. 7, pp. 181–187, Yodosha, April 2023. ISBN 978-4-7581-0410-4. (in Japanese)
-
 <!-- 実験医学2025 -->
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
@@ -72,7 +63,7 @@ Vol. 41, No. 7, pp. 181–187, Yodosha, April 2023. ISBN 978-4-7581-0410-4. (in 
          (Special Issue: “Synthetic Biology of Multicellular Systems / Getting Started with Bioinformatics via Conda”),<br>
          Vol.43, No.6, pp. 957–960. Yodosha, March 2025.<br>
          ISBN 978-4-7581-2590-1. (in Japanese)<br>
-         <a href="https://www.yodosha.co.jp/yodobook/book/9784758125901/" target="_blank" rel="noopener">▶ View on Yodosha&nbsp</a>
+         <a href="https://www.yodosha.co.jp/yodobook/book/9784758125901/" target="_blank" rel="noopener">▶ View on Yodosha</a>&nbsp;&nbsp;
           <a href="https://www.amazon.co.jp/%E5%AE%9F%E9%A8%93%E5%8C%BB%E5%AD%A6-2025%E5%B9%B44%E6%9C%88%E5%8F%B7-Vol-43-%E7%99%BA%E7%94%9F%E3%83%BB%E5%88%86%E5%8C%96%E6%A9%9F%E6%A7%8B%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%80%81%E5%89%B5%E3%81%A3%E3%81%A6%E3%80%81%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%EF%BC%8F%E7%89%B9%E9%9B%862-%E4%BB%AE%E6%83%B3%E7%92%B0%E5%A2%83%E3%81%A7%E8%A9%A6%E3%81%9B%E3%82%8B%E3%83%90%E3%82%A4%E3%82%AA%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9-ebook/dp/B0F2859DCF" target="_blank" rel="noopener">▶ View on Amazon</a><br>
        </span>
      </li>
@@ -102,7 +93,7 @@ Vol. 41, No. 7, pp. 181–187, Yodosha, April 2023. ISBN 978-4-7581-0410-4. (in 
          (Supplement: “Statistical Genetics in the Post-GWAS Era: A Systems View of Human Disease via Omics and Machine Learning”),<br>
         Vol. 41, No. 7, pp. 181–187, Yodosha, April 2023.<br> 
          ISBN 978-4-7581-0410-4. (in Japanese)<br>
-         <a href="https://www.yodosha.co.jp/yodobook/book/9784758104104/" target="_blank" rel="noopener">▶ View on Yodosha%nbsp</a>
+         <a href="https://www.yodosha.co.jp/yodobook/book/9784758104104/" target="_blank" rel="noopener">▶ View on Yodosha</a>&nbsp;&nbsp;
          <a href="https://www.amazon.co.jp/%E5%AE%9F%E9%A8%93%E5%8C%BB%E5%AD%A6%E5%A2%97%E5%88%8A-Vol-41-No-7-%E3%83%9D%E3%82%B9%E3%83%88GWAS%E6%99%82%E4%BB%A3%E3%81%AE%E9%81%BA%E4%BC%9D%E7%B5%B1%E8%A8%88%E5%AD%A6%E3%80%9C%E3%82%AA%E3%83%9F%E3%82%AF%E3%82%B9%E8%A7%A3%E6%9E%90%E3%81%A8%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%A7%E3%83%92%E3%83%88%E7%96%BE%E6%82%A3%E3%82%92%E4%BF%AF%E7%9E%B0%E3%81%99%E3%82%8B-%E5%B2%A1%E7%94%B0/dp/4758104107" target="_blank" rel="noopener">▶ View on Amazon</a><br>
        </span>
      </li>
