@@ -160,9 +160,10 @@ Best NGS awards 受賞,
          <strong>○難波里子</strong>
        </span>
        <span style="display: block; padding-left: 1em;">
-         ISMB2022 Travel Fellowship, $1,000 （採択率 47/155）<br>
+         ISMB2022 Travel Fellowship, $1,000 <br>
+         （採択率 47/155）<br>
           <p style="color: #20519A;">
-             Group photo with Travel Fellowship recipients at ISMB 2022 ➡️
+             ISMB 2022のTravel Fellowship採択者の集合写真 ➡️
           </p>
        </span>
      </li>
