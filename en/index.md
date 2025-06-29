@@ -24,6 +24,42 @@ lang: en
 <dl style="margin: 0; font-family: 'Noto Sans JP', sans-serif;">
   
   <dt style="font-weight: bold; margin-top: 10px;">
+    <span style="background-color: #DF83A8; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">Media Coverage</span>
+    <time style="margin-left: 10px; color: #666;">2025.06.27</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;">
+    <a href="#" style="text-decoration: none; color: #333;">
+    A paper integrating GWAS and TWAS to predict therapeutic targets for rare diseases was featured on Nagoya University Frontline. 
+    <a href="https://note.com/nagoya_ura/n/nd5d86f9fe220" target="_blank" rel="noopener noreferrer">[web]</a>
+    <a href="/achievements.html" rel="noopener noreferrer">[Research Achievements]</a>
+    </a>
+  </dd>
+  
+  <dt style="font-weight: bold; margin-top: 10px;">
+    <span style="background-color: #DF83A8; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">Media Coverage</span>
+    <time style="margin-left: 10px; color: #666;">2025.05.26</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;">
+    <a href="#" style="text-decoration: none; color: #333;">
+    A paper integrating GWAS and TWAS to predict therapeutic targets for rare diseases was featured on Chunichi Shimbun Morning Edition. 
+    <a href="https://www.chunichi.co.jp/article/1072372" target="_blank" rel="noopener noreferrer">[web]</a>
+    <a href="/achievements.html" rel="noopener noreferrer">[Research Achievements]</a>
+    </a>
+  </dd>
+  
+  <dt style="font-weight: bold; margin-top: 10px;">
+    <span style="background-color: #DF83A8; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">Media Coverage</span>
+    <time style="margin-left: 10px; color: #666;">2025.05.25</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;">
+    <a href="#" style="text-decoration: none; color: #333;">
+    A paper integrating GWAS and TWAS to predict therapeutic targets for rare diseases was featured on Chunichi Shimbun Web. 
+    <a href="https://www.chunichi.co.jp/article/1072372" target="_blank" rel="noopener noreferrer">[web]</a>
+    <a href="/achievements.html" rel="noopener noreferrer">[Research Achievements]</a>
+    </a>
+  </dd>
+  
+  <dt style="font-weight: bold; margin-top: 10px;">
     <span style="background-color: #DF83A8; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">Publication</span>
     <time style="margin-left: 10px; color: #666;">April 18, 2025</time>
   </dt>
