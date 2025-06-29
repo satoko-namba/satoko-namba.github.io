@@ -359,6 +359,24 @@ Fukuoka, 10/24, 2018.
 ### 📰**Media Coverage**
 
 1. **Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
+“AI for Drug Discovery Treasure Hunting Is Born!”,  
+Nagoya University Frontline,  
+2025.6.27.  
+[web page](https://note.com/nagoya_ura/n/nd5d86f9fe220)
+
+1. **Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
+“Training AI to Learn Gene Abnormalities and Diseases: Nagoya University Team Develops Drug Discovery AI with High Potential for Rare Diseases”,  
+The Chunichi Shimbun Morning Edition,  
+2025.5.26.  
+[web page](https://www.chunichi.co.jp/article/1072372)
+
+1. **Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
+“Training AI to Learn Gene Abnormalities and Diseases: Nagoya University Team Develops Drug Discovery AI with High Potential for Rare Diseases”,  
+The Chunichi Shimbun Web,  
+2025.5.25.  
+[web page](https://www.chunichi.co.jp/article/1072372)
+
+1. **Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
 “AI Developed to Predict Therapeutic Targets for Rare Diseases”,  
 Featured in RareS. — Japan’s leading platform for information on rare and intractable diseases,  
 2025.5.15.  
