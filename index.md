@@ -21,6 +21,42 @@ title: Research Homepage
 <div style="max-height: 240px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; background-color: #fefefe;">
 
 <dl style="margin: 0; font-family: 'Noto Sans JP', sans-serif;">
+
+  <dt style="font-weight: bold; margin-top: 10px;">
+    <span style="background-color: #DF83A8; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">メディア報道</span>
+    <time style="margin-left: 10px; color: #666;">2025.06.27</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;">
+    <a href="#" style="text-decoration: none; color: #333;">
+    GWASとTWASの融合により希少疾患に対し治療標的分子を予測する論文が、名古屋大学フロントラインで紹介されました。 
+    <a href="https://note.com/nagoya_ura/n/nd5d86f9fe220" target="_blank" rel="noopener noreferrer">[web]</a>
+    <a href="/achievements.html" rel="noopener noreferrer">[研究業績]</a>
+    </a>
+  </dd>
+  
+  <dt style="font-weight: bold; margin-top: 10px;">
+    <span style="background-color: #DF83A8; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">メディア報道</span>
+    <time style="margin-left: 10px; color: #666;">2025.05.26</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;">
+    <a href="#" style="text-decoration: none; color: #333;">
+    GWASとTWASの融合により希少疾患に対し治療標的分子を予測する論文が、中日新聞朝刊で紹介されました。 
+    <a href="https://www.chunichi.co.jp/article/1072372" target="_blank" rel="noopener noreferrer">[web]</a>
+    <a href="/achievements.html" rel="noopener noreferrer">[研究業績]</a>
+    </a>
+  </dd>
+  
+  <dt style="font-weight: bold; margin-top: 10px;">
+    <span style="background-color: #DF83A8; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">メディア報道</span>
+    <time style="margin-left: 10px; color: #666;">2025.05.25</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;">
+    <a href="#" style="text-decoration: none; color: #333;">
+    GWASとTWASの融合により希少疾患に対し治療標的分子を予測する論文が、中日新聞webで紹介されました。 
+    <a href="https://www.chunichi.co.jp/article/1072372" target="_blank" rel="noopener noreferrer">[web]</a>
+    <a href="/achievements.html" rel="noopener noreferrer">[研究業績]</a>
+    </a>
+  </dd>
   
   <dt style="font-weight: bold; margin-top: 10px;">
     <span style="background-color: #DF83A8; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">メディア報道</span>
@@ -28,7 +64,7 @@ title: Research Homepage
   </dt>
   <dd style="margin: 0 0 10px 0;">
     <a href="#" style="text-decoration: none; color: #333;">
-    GWASとTWASの融合により希少疾患に対し治療標的分子を予測する論文について、難病・希少疾患 情報サイト RareS.で紹介されました。 
+    GWASとTWASの融合により希少疾患に対し治療標的分子を予測する論文が、難病・希少疾患 情報サイト RareS.で紹介されました。 
     <a href="https://raresnet.com/250515-01/" target="_blank" rel="noopener noreferrer">[web]</a>
     <a href="/achievements.html" rel="noopener noreferrer">[研究業績]</a>
     </a>
