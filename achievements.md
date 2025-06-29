@@ -346,6 +346,24 @@ Proceedings, アメリカ マディソン, 2022年7月12日 (2022.7.10~2022.7.14
 ### 📰**メディア報道**
 
 1. **○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
+「創薬の宝さがしAI、誕生！」,  
+名古屋大学フロントライン,  
+2025年6月27日.  
+[web page](https://note.com/nagoya_ura/n/nd5d86f9fe220)  
+
+1. **○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
+「遺伝子の異常、病気ごとに学習　名古屋大グループが創薬AI開発、希少疾患に威力発揮」,  
+中日新聞朝刊,  
+2025年5月26日.  
+[web page](https://www.chunichi.co.jp/article/1072372)  
+
+1. **○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
+「遺伝子の異常、病気ごとに学習　名古屋大グループが創薬AI開発、希少疾患に威力発揮」,  
+中日新聞web,  
+2025年5月25日.  
+[web page](https://www.chunichi.co.jp/article/1072372)  
+
+1. **○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyam Otani, and Yoshihiro Yamanishi.  
 「希少疾患の創薬標的分子を予測するAIを開発」,  
 難病・希少疾患 情報サイト RareS.(レアズ; 難病・希少疾患領域に特化した信頼性の高い医療情報サイト),  
 2025年5月15日.  
