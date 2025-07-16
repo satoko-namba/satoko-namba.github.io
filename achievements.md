@@ -199,7 +199,7 @@ Best NGS awards 受賞,
 1.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyama Otani, and Yoshihiro Yamanishi.  
 “TRESOR: a disease signature integrating GWAS and TWAS  for therapeutic target discovery in rare diseases.”  
 『The 33rd International Conference on Intelligent Systems for Molecular Biology (ISMB2025)』,  
-Abstract Talk, 英国 リバプール, 2025.7.20–24.  
+Abstract Talk, 英国 リバプール, 2025年7月22日（2025.7.20–24）.  
 
 2.	**○Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
 “Target repositioning to predict therapeutic target proteins using genetically perturbed transcriptome data”.  
