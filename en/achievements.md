@@ -318,47 +318,67 @@ Okinawa, 8/17-19, 2019.
 
 ### 🏯**Poster Presentations at Domestic Conferences**
 
-1. Futaba Sakaguchi, Miku Tanaka, **Satoko Namba**, et al.  
+1. **Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyama Otani, and Yoshihiro Yamanishi.  
+“TRESOR: comprehensive discovery of therapeutic targets for orphan diseases via integration of GWAS and TWAS.”  
+『Informatics in Biology, Medicine and Pharmacology 2025』,  
+Nagoya, 2025.9.3–4 (2025.9.3~9.5).
+
+2. Miku Tanaka, **Satoko Namba**, and Yoshihiro Yamanishi.  
+“Computational prediction of rejuvenation-inducing transcription factors in senescent cells.”  
+『Informatics in Biology, Medicine and Pharmacology 2025』,  
+Nagoya, 2025.9.3–4 (2025.9.3~9.5).
+
+3. Futaba Sakaguchi, Miku Tanaka, **Satoko Namba**, Yohey Kamijo, Norihiro Kikuchi, and Yoshihiro Yamanishi.  
+“Mechanistic analysis of compounds that induce anti-aging reprogramming.”  
+『Informatics in Biology, Medicine and Pharmacology 2025』,  
+Nagoya, 2025.9.3–4 (2025.9.3~9.5).
+
+4. Haruka Go, **Satoko Namba**, and Yoshihiro Yamanishi.  
+“Prediction of therapeutic target molecules using TWAS and disease pathway information.”  
+『Informatics in Biology, Medicine and Pharmacology 2025』,  
+Nagoya, 2025.9.3–4 (2025.9.3~9.5).
+
+5. Futaba Sakaguchi, Miku Tanaka, **Satoko Namba**, et al.  
 “Computational analysis of chemical features and mechanisms of compounds with anti-aging effects.”  
 『The 145th Annual Meeting of the Pharmaceutical Society of Japan』,  
 Fukuoka, 2025.3.27 (2025.3.26~2025.3.29).
 
-2. Futaba Sakaguchi, Miku Tanaka, **Satoko Namba***, et al.  
+6. Futaba Sakaguchi, Miku Tanaka, **Satoko Namba***, et al.  
 “Analysis and prediction of small compounds that induce anti-aging reprogramming.”  
 『The 130th Annual Meeting of the Japanese Association of Anatomists (JAA)・The 102nd Annual Meeting of the Physiological Society of Japan (PSJ)・The 98th Annual Meeting of the Japanese Pharmacological Society (JPS)』,  
 Chiba, 2025.3.18 (2025.3.17~2025.3.19).
 
-3. Shuto Yoshimoto, … **Satoko Namba**, et al.  
+7. Shuto Yoshimoto, … **Satoko Namba**, et al.  
 “Prediction of Novel Therapeutic Targets and Drug Candidates for a Schizophrenia-like Mouse Model.”  
 『The 61st Joint Kyushu Conference of Chemical Societies』,  
 Fukuoka, 2024.6.29.
 
-4. Yoshino Kamenofuchi, … **Satoko Namba**, et al.  
+8. Yoshino Kamenofuchi, … **Satoko Namba**, et al.  
 “Prediction of drug target molecules and drug combination effects by machine learning.”  
 『The 144th Annual Meeting of the Pharmaceutical Society of Japan』,  
 Kanagawa, 2024.3.30 (2024.3.28~2024.3.31).
 
-5. Yoshino Kamenofuchi, … **Satoko Namba**, et al.  
+9. Yoshino Kamenofuchi, … **Satoko Namba**, et al.  
 “Development of a Computational Method for Predicting Drug Combinations that Enhance Synergistic Effects.”  
 『The 97th Annual Meeting of the Japanese Pharmacological Society (JPS)』,  
 Kobe, 2023.3.12.15 (2023.12.14~2023.12.16).
 
-6. **Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Otani, and Yoshihiro Yamanishi.  
+10. **Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Otani, and Yoshihiro Yamanishi.  
 “Therapeutic target prediction for rare diseases integrating GWAS and TWAS data”.  
 『Informatics in Biology, Medicine and Pharmacology 2023』,  
 Chiba, 2023.9.7 (2023.9.7~2023.9.9).
 
-7. **Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
+11. **Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
 “Target repositioning: predicting therapeutic targets by genetically perturbed transcriptomic signatures.”  
 『Informatics in Biology, Medicine and Pharmacology 2021』,  
 online, 9/27-29, 2021 (Domestic conference).
 
-8. **Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
+12. **Satoko Namba**, Michio Iwata, and Yoshihiro Yamanishi.  
 “Predicting therapeutic targets and drugs by genetically perturbed transcriptome signatures.”  
 『Informatics in Biology, Medicine and Pharmacology 2020』,  
 online, 9/1-3, 2020.
 
-9. **Satoko Namba**, Katsuya Ogata, and Shozo Tobimatsu.  
+13. **Satoko Namba**, Katsuya Ogata, and Shozo Tobimatsu.  
 “Frequency dependent effect of iTBS-tACS.”  
 『English Poster Presentation of Kyushu University School of Medicine』,  
 Fukuoka, 10/24, 2018.
