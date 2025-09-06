@@ -111,6 +111,12 @@ https://doi.org/10.1093/bioinformatics/btac240. (6/27/2022)
 ### 🏆**Honors / Awards**
 
 1. **Satoko Namba**.  
+『Informatics in Biology, Medicine and Pharmacology 2025』,  
+Excellent Highlight Track Presentation Award,  
+2025.9.5.  
+[[Award Certificate]]()
+
+1. **Satoko Namba**.  
 『The 130th Annual Meeting of the Japanese Association of Anatomists (JAA)・The 102nd Annual Meeting of the Physiological Society of Japan (PSJ)・The 98th Annual Meeting of the Japanese Pharmacological Society (JPS)』,  
 Young Investigator Award,  
 2025.3.18.  
