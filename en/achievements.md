@@ -248,6 +248,10 @@ Lyon in France, 2023.7.24 (2023.7.23~2023.7.27).
 
 ### 🏯**Oral Presentations at Domestic Conferences**
 
+1. **Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyama Otani, and Yoshihiro Yamanishi.  
+“TRESOR: comprehensive discovery of therapeutic targets for orphan diseases via integration of GWAS and TWAS.”  
+『Informatics in Biology, Medicine and Pharmacology 2025』, Nagoya, 2025.9.4 (2025.9.3~2025.9.5).
+
 1. **Satoko Namba**, Chen Li, Noriko Otani, and Yoshihiro Yamanishi.  
 “Predicting therapeutic target molecules for rare diseases based on deep learning and genetically perturbed transcriptome.”  
 『The 145th Annual Meeting of the Pharmaceutical Society of Japan』, Fukuoka, 2025.3.28 (2025.3.26~2025.3.29).
