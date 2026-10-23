@@ -45,7 +45,37 @@ https://doi.org/10.1093/bioinformatics/btac240 (6/27/2022)
 
 ---
 
-### 📕**学術雑誌又は商業誌**
+### 📕**学術雑誌又は商業誌、総説**
+
+<!-- 実験医学2026 -->
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+  <!-- 左側：基本情報 -->
+  <div style="flex: 1; min-width: 250px;">
+   <ol start="1">
+     <li>
+       <span style="display: block;">
+         <strong>○難波里子.</strong>, 山西芳裕.
+       </span>
+       <span style="display: block; padding-left: 1em;">
+         「希少疾患の創薬標的分子を予測するAI技術―ゲノムとトランスクリプトームの融合が拓く新しい治療戦略」、<br>
+          実験医学増刊Vol.44, No.5, pp. 60-68<br>
+         『AI・データ駆動型創薬研究』<br>
+         （柚木克之，山西芳裕／編 羊土社、2026年3月5日、60-68）.<br>
+         ISBN 978-4-7581-0433-3<br>
+         <a href="https://www.yodosha.co.jp/yodobook/book/9784758104333/" target="_blank" rel="noopener">▶ 羊土社で見る</a>&nbsp;&nbsp;
+          <a href="https://www.amazon.co.jp/%E5%AE%9F%E9%A8%93%E5%8C%BB%E5%AD%A6%E5%A2%97%E5%88%8A-Vol-44-No-5-AI%E3%83%BB%E3%83%87%E3%83%BC%E3%82%BF%E9%A7%86%E5%8B%95%E5%9E%8B%E5%89%B5%E8%96%AC%E7%A0%94%E7%A9%B6%E3%80%9C%E3%83%9E%E3%83%AB%E3%83%81%E3%82%AA%E3%83%9F%E3%82%AF%E3%82%B9%E2%9C%95%E3%82%B1%E3%83%A2%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%E3%81%A7%E3%82%88%E3%82%8A%E7%A2%BA%E5%AE%9F%E3%81%AA%E6%B2%BB%E7%99%82%E6%A8%99%E7%9A%84%E3%82%92%E8%A6%8B%E3%81%A4%E3%81%91%E3%80%81%E8%96%AC%E3%82%92%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%99%E3%82%8B-%E6%9F%9A%E6%9C%A8/dp/4758104336" target="_blank" rel="noopener">▶ Amazonで見る</a><br>
+       </span>
+     </li>
+   </ol>
+  </div>
+
+  <!-- 右側：顔写真 -->
+  <div style="flex-shrink: 0;">
+    <img src="/assets/books/実験医学2026.jpg" alt="実験医学2026" style="width: 120px; border: 1px solid #ccc; height: auto;">
+  </div>
+</div>
+
 
 <!-- 実験医学2025 -->
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
