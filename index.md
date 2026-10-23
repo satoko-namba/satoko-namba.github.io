@@ -23,6 +23,20 @@ title: Research Homepage
 <dl style="margin: 0; font-family: 'Noto Sans JP', sans-serif;">
 
   <dt style="font-weight: bold; margin-top: 10px;">
+    <span style="background-color: #06938E; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">着任</span>
+    <time style="margin-left: 10px; color: #666;">2026.04.1</time>
+  </dt>
+  <dd style="margin: 0 0 10px 0;">
+    <a href="#" style="text-decoration: none; color: #333;">
+    名古屋大学 高等研究院 YLC特任助教（テニュアトラック）に着任しました。 
+    <a href="http://www.iar.nagoya-u.ac.jp/member/?s_keyword=%E9%9B%A3%E6%B3%A2+%E9%87%8C%E5%AD%90" target="_blank" rel="noopener noreferrer">[web]</a>
+    <a href="/about.html" rel="noopener noreferrer">[経歴]</a>
+    </a>
+  </dd>
+
+<dl style="margin: 0; font-family: 'Noto Sans JP', sans-serif;">
+
+  <dt style="font-weight: bold; margin-top: 10px;">
     <span style="background-color: #DF83A8; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem;">メディア報道</span>
     <time style="margin-left: 10px; color: #666;">2025.06.27</time>
   </dt>
