@@ -8,6 +8,12 @@ permalink: /achievements.html
 
 ### 📚**学術論文**
 
+1.	**○Satoko Namba**, Mitsuhiro Goda, Yurika Kuniki, Keisuke Ishizawa, Midori Iida, Jun-ichi Takeshita, and Yoshihiro Yamanishi.  
+Mechanism-based prediction of drug synergy via network controllability analysis of therapeutic pathways in intractable diseases.  
+iScience, **29**(4), 115339.  
+https://doi.org/10.1016/j.isci.2026.115339 (2026.4.17)  
+[[Paper]](https://doi.org/10.1016/j.isci.2026.115339) [[Google Scholar]](https://scholar.google.co.jp/citations?user=Oo9a2h8AAAAJ&hl)
+
 1.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyama Otani, and Yoshihiro Yamanishi.  
 Therapeutic target prediction for orphan diseases integrating genome-wide and transcriptome-wide association studies.  
 Nat Commun., **16**, 3355.  
