@@ -16,7 +16,7 @@ title: 経歴
     <ul style="list-style: none; padding-left: 0; font-size: 1rem;">
       <li><strong>氏名：</strong>難波 里子（Satoko Namba）</li>
       <li><strong>出身：</strong>島根県大田市</li>
-      <li><strong>所属：</strong>名古屋大学 大学院情報学研究科 複雑系科学専攻 生命情報論講座 山西研究室 / JSPS特別研究員PD</li>
+      <li><strong>所属：</strong>名古屋大学 高等研究院（兼 大学院情報学研究科 複雑系科学専攻） / YLC特任助教（テニュアトラック）</li>
       <li><strong>専門：</strong>AI創薬・ターゲットリポジショニング</li>
       <li><strong>趣味：</strong>研究、ピアノや絵、写真など芸術的で創造的なこと</li>
     </ul>
@@ -65,27 +65,6 @@ title: 経歴
 - オミクス解析（bulk / single cell）
 - 機械学習 / AI
 <br>
-
----
-
-<!-- 🎴 ファビコン「難」に込めた想い -->
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-
-  <!-- 左側：文章 -->
-  <div style="flex: 1; min-width: 250px;">
-    <h3 style="margin-top: 0; font-weight: bold;">🎴 ファビコン「難」に込めた想い</h3>
-    <p>このホームページのファビコンには、漢字の「難」を使用しています。  
-    これは私の名字「難波」の一文字であると同時に、私の研究テーマである「難治性疾患」にも通じています。  
-    「難」という文字には、<strong>困難な課題に挑み、複雑な問題を解き明かしていく姿勢</strong>を込めており、  
-    私自身のアイデンティティと研究者としての信念を象徴するものです。</p>
-  </div>
-
-  <!-- 右側：ファビコン画像 -->
-  <div style="flex-shrink: 0;">
-    <img src="/favicon.ico" alt="favicon" style="width: 160px; height: 160px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
-  </div>
-
-</div>
 
 ---
 
