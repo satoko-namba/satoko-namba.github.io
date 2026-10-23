@@ -14,6 +14,12 @@ permalink: /en/achievements.html
 
 ### 📚**Peer-Reviewed Journal Articles**
 
+1.	**○Satoko Namba**, Mitsuhiro Goda, Yurika Kuniki, Keisuke Ishizawa, Midori Iida, Jun-ichi Takeshita, and Yoshihiro Yamanishi.  
+Mechanism-based prediction of drug synergy via network controllability analysis of therapeutic pathways in intractable diseases.  
+iScience, **29**(4), 115339.  
+https://doi.org/10.1016/j.isci.2026.115339 (2026.4.17)  
+[[Paper]](https://doi.org/10.1016/j.isci.2026.115339) [[Google Scholar]](https://scholar.google.co.jp/citations?user=Oo9a2h8AAAAJ&hl)
+
 1.	**○Satoko Namba**, Michio Iwata, Shin-Ichi Nureki, Noriko Yuyama Otani, and Yoshihiro Yamanishi.  
 Therapeutic target prediction for orphan diseases integrating genome-wide and transcriptome-wide association studies.  
 Nat Commun., **16**, 3355.  
@@ -46,6 +52,36 @@ https://doi.org/10.1093/bioinformatics/btac240. (6/27/2022)
 ---
 
 ### 📕**Review Articles / Professional Magazines**
+
+<!-- 実験医学2026 -->
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+  <!-- 左側：基本情報 -->
+  <div style="flex: 1; min-width: 250px;">
+   <ol start="1">
+     <li>
+       <span style="display: block;">
+         <strong>Satoko Namba</strong>, and Yoshihiro Yamanishi.
+       </span>
+       <span style="display: block; padding-left: 1em;">
+         "Artificial Intelligence–Based Prediction of Therapeutic Targets for Rare Diseases: Integrative Genomic and Transcriptomic Approaches"<br>
+          Experimental Medicine <br>
+          (Special Issue: “AI- and Data-Driven Drug Discovery Research”),<br>
+          Vol.44, No.5, pp. 60-68. Yodosha, March 2026.<br>
+         ISBN 978-4-7581-0433-3. (in Japanese)<br>
+         <a href="https://www.yodosha.co.jp/yodobook/book/9784758104333/" target="_blank" rel="noopener">▶ View on Yodosha</a>&nbsp;&nbsp;
+          <a href="https://www.amazon.co.jp/%E5%AE%9F%E9%A8%93%E5%8C%BB%E5%AD%A6%E5%A2%97%E5%88%8A-Vol-44-No-5-AI%E3%83%BB%E3%83%87%E3%83%BC%E3%82%BF%E9%A7%86%E5%8B%95%E5%9E%8B%E5%89%B5%E8%96%AC%E7%A0%94%E7%A9%B6%E3%80%9C%E3%83%9E%E3%83%AB%E3%83%81%E3%82%AA%E3%83%9F%E3%82%AF%E3%82%B9%E2%9C%95%E3%82%B1%E3%83%A2%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%E3%81%A7%E3%82%88%E3%82%8A%E7%A2%BA%E5%AE%9F%E3%81%AA%E6%B2%BB%E7%99%82%E6%A8%99%E7%9A%84%E3%82%92%E8%A6%8B%E3%81%A4%E3%81%91%E3%80%81%E8%96%AC%E3%82%92%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%99%E3%82%8B-%E6%9F%9A%E6%9C%A8/dp/4758104336" target="_blank" rel="noopener">▶ View on Amazon</a><br>
+       </span>
+     </li>
+   </ol>
+  </div>
+
+  <!-- 右側：顔写真 -->
+  <div style="flex-shrink: 0;">
+    <img src="/assets/books/実験医学2026.jpg" alt="実験医学2026" style="width: 120px; border: 1px solid #ccc; height: auto;">
+  </div>
+</div>
+
 
 <!-- 実験医学2025 -->
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
