@@ -44,8 +44,10 @@ permalink: /en/about.html
 ---
 
 ### 🧪 **Research & Work Experience**
-- Mar. 2025 – present JSPS PD Fellow @ Nagoya University  
-- Apr. 2024 – Mar. 2025 JSPS PD (transitioned from DC1) Fellow @ Nagoya University  
+- Apr. 2026 - present Young Leaders Cultivation (YLC) Designated Assistant Professor, Institute for Advanced Research (IAR), Nagoya University
+- Apr. 2026 - present Young Leaders Cultivation (YLC) Designated Assistant Professor, Department of Complex Systems Science, Graduate School of Informatics, Nagoya University,
+- Apr. 2025 – Mar. 2026 JSPS PD Fellow, Department of Complex Systems Science, Graduate School of Informatics, Nagoya University  
+- Apr. 2024 – Mar. 2025 JSPS PD (transitioned from DC1) Fellow, Department of Complex Systems Science, Graduate School of Informatics,  Nagoya University  
 - Apr. 2022 – Mar. 2024 JSPS DC1 Fellow @ Kyushu Institute of Technology  
 <br>
 
